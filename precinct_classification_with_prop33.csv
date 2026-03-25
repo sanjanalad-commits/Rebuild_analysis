@@ -1,0 +1,368 @@
+precinct_id,srprec,county,city,classification_score,classification_category,total_voters,prop_33_no_pct
+23874,0084091,Ventura,Simi Valley,16,Progressive,230,50.22
+23505,0084103,Ventura,Simi Valley,18,Progressive,360,45.01
+23897,0092066,Ventura,Thousand Oaks,19,Progressive,412,43.22
+20139,7100004B,Los Angeles,Unincorporated,19,Progressive,3631,58.59
+20560,9005918A,Los Angeles,Los Angeles,21,Progressive,1676,70.16
+20884,7100030A,Los Angeles,Unincorporated,22,Progressive,1233,
+24461,0039004,Ventura,Moorpark,22,Progressive,555,50.0
+24263,0084005,Ventura,Simi Valley,22,Progressive,422,51.5
+19024,9001317C,Los Angeles,Los Angeles,23,Progressive,2614,52.22
+24473,0039016,Ventura,Moorpark,24,Progressive,243,57.71
+24490,0039010,Ventura,Moorpark,24,Progressive,437,51.87
+23839,0092004,Ventura,Thousand Oaks,25,Progressive,647,49.11
+19041,9001312A,Los Angeles,Los Angeles,25,Progressive,1446,
+20225,9005833A,Los Angeles,Los Angeles,25,Progressive,3211,62.0
+23833,0092001,Ventura,Thousand Oaks,25,Progressive,684,46.74
+23737,0006924,Ventura,Camarillo,26,Progressive,365,64.04
+19761,9007689A,Los Angeles,Los Angeles,26,Progressive,2266,
+19658,9000267A,Los Angeles,Los Angeles,26,Progressive,1803,
+19717,9001382A,Los Angeles,Los Angeles,26,Progressive,2344,76.18
+20760,9001364A,Los Angeles,Los Angeles,27,Progressive,1728,
+20876,9001408A,Los Angeles,Los Angeles,27,Progressive,1944,77.69
+20658,9001367B,Los Angeles,Los Angeles,28,Progressive,3917,83.04
+24288,0044010,Ventura,Unincorporated,28,Progressive,630,63.05
+24376,0084025,Ventura,Simi Valley,28,Progressive,475,62.69
+19377,4060001A,Los Angeles,Unincorporated,28,Progressive,794,69.78
+19661,1000009A,Los Angeles,Calabasas,28,Progressive,491,71.84
+19704,1000006A,Los Angeles,Calabasas,28,Progressive,1023,
+20596,0070006A,Los Angeles,Unincorporated,28,Progressive,1330,72.1
+23939,0092031,Ventura,Thousand Oaks,29,Progressive,374,47.49
+20254,4050059B,Los Angeles,Malibu,29,Progressive,2171,70.75
+20857,9001100A,Los Angeles,Los Angeles,29,Progressive,2692,77.46
+20112,2780002A,Los Angeles,Hidden Hills,29,Progressive,1069,81.21
+24752,0007032,Ventura,Camarillo,29,Progressive,801,64.78
+23891,0092053,Ventura,Thousand Oaks,30,Progressive,460,54.08
+19246,1000011A,Los Angeles,Calabasas,30,Progressive,1588,60.99
+20892,9005428A,Los Angeles,Los Angeles,30,Progressive,2377,78.63
+23968,0039032,Ventura,Moorpark,30,Progressive,445,47.61
+24574,0092121,Ventura,Thousand Oaks,30,Progressive,603,51.64
+23991,0092094,Ventura,Thousand Oaks,30,Progressive,504,61.3
+24168,0044001,Ventura,Unincorporated,30,Progressive,462,69.0
+24287,0044011,Ventura,Unincorporated,30,Progressive,664,59.04
+19199,9001352A,Los Angeles,Los Angeles,31,Progressive,1997,78.23
+24529,0092119,Ventura,Thousand Oaks,31,Progressive,209,68.69
+19203,1000015A,Los Angeles,Calabasas,31,Progressive,1930,64.49
+19361,9007693D,Los Angeles,Los Angeles,31,Progressive,3095,75.5
+20632,0080007A,Los Angeles,Agoura Hills,31,Progressive,2937,67.11
+20199,9005923A,Los Angeles,Los Angeles,31,Progressive,1926,
+20464,4050051A,Los Angeles,Malibu,31,Progressive,2035,68.65
+24395,0084022,Ventura,Simi Valley,31,Progressive,584,60.31
+24549,0092117,Ventura,Thousand Oaks,31,Progressive,343,49.84
+24687,0005300,Ventura,Unincorporated,31,Progressive,1099,44.55
+24579,0092126,Ventura,Thousand Oaks,31,Progressive,259,78.23
+24795,0007003,Ventura,Camarillo,32,Progressive,403,54.45
+23919,0039022,Ventura,Moorpark,32,Progressive,404,69.39
+24260,0084006,Ventura,Simi Valley,32,Progressive,589,67.08
+23834,0092000,Ventura,Thousand Oaks,32,Progressive,378,43.54
+20469,1000077A,Los Angeles,Calabasas,32,Progressive,1113,
+19190,1000016A,Los Angeles,Calabasas,32,Progressive,4016,73.7
+23772,0092017,Ventura,Thousand Oaks,33,Progressive,634,57.07
+24362,0084012,Ventura,Simi Valley,33,Progressive,643,65.64
+24454,0039005,Ventura,Moorpark,33,Progressive,622,53.81
+24170,0044003,Ventura,Unincorporated,33,Progressive,504,72.09
+23902,0092061,Ventura,Thousand Oaks,33,Progressive,951,62.07
+23864,0084099,Ventura,Simi Valley,33,Progressive,690,64.35
+24172,0044005,Ventura,Unincorporated,33,Progressive,449,63.36
+20685,0080004A,Los Angeles,Agoura Hills,33,Progressive,1950,74.32
+20756,4050002A,Los Angeles,Malibu,33,Progressive,1786,73.67
+23634,0092103,Ventura,Thousand Oaks,33,Progressive,744,64.35
+23973,0092049,Ventura,Thousand Oaks,33,Progressive,222,56.04
+24576,0092124,Ventura,Thousand Oaks,33,Progressive,556,55.19
+20486,0070008A,Los Angeles,Unincorporated,34,Mainstream,360,
+24166,0044000,Ventura,Unincorporated,34,Mainstream,448,59.07
+20352,0080050A,Los Angeles,Agoura Hills,34,Mainstream,3482,66.17
+23896,0092067,Ventura,Thousand Oaks,34,Mainstream,753,55.63
+23990,0092091,Ventura,Thousand Oaks,34,Mainstream,680,69.09
+24023,0092080,Ventura,Thousand Oaks,34,Mainstream,536,52.31
+24741,0007041,Ventura,Camarillo,34,Mainstream,338,66.14
+20393,1000033A,Los Angeles,Calabasas,34,Mainstream,1854,78.6
+20282,0080054A,Los Angeles,Agoura Hills,34,Mainstream,1273,67.36
+19353,0080070A,Los Angeles,Agoura Hills,34,Mainstream,2542,72.37
+23836,0092003,Ventura,Thousand Oaks,34,Mainstream,394,49.32
+24537,0092110,Ventura,Thousand Oaks,35,Mainstream,593,53.13
+23992,0092093,Ventura,Thousand Oaks,35,Mainstream,588,74.68
+24293,0044014,Ventura,Unincorporated,35,Mainstream,672,61.25
+24009,0092079,Ventura,Thousand Oaks,35,Mainstream,506,43.63
+24459,0039002,Ventura,Moorpark,35,Mainstream,614,53.46
+23528,0084101,Ventura,Simi Valley,35,Mainstream,710,53.76
+24728,0007029,Ventura,Camarillo,35,Mainstream,470,60.73
+24272,0084009,Ventura,Simi Valley,35,Mainstream,869,61.94
+24346,0084042,Ventura,Simi Valley,35,Mainstream,592,56.69
+24289,0044013,Ventura,Unincorporated,35,Mainstream,571,50.09
+24169,0044004,Ventura,Unincorporated,36,Mainstream,570,72.28
+24348,0084044,Ventura,Simi Valley,36,Mainstream,528,62.38
+24279,0084002,Ventura,Simi Valley,36,Mainstream,903,61.18
+20504,7770001A,Los Angeles,Westlake Village,36,Mainstream,632,68.27
+24491,0039013,Ventura,Moorpark,36,Mainstream,625,71.19
+23511,0084104,Ventura,Simi Valley,36,Mainstream,507,60.37
+24011,0092072,Ventura,Thousand Oaks,36,Mainstream,702,69.63
+23399,0007002,Ventura,Camarillo,37,Mainstream,669,65.52
+24456,0039007,Ventura,Moorpark,37,Mainstream,649,61.29
+24138,0099000,Ventura,Unincorporated,37,Mainstream,226,71.36
+24156,0044009,Ventura,Unincorporated,37,Mainstream,756,76.12
+23800,0092028,Ventura,Thousand Oaks,37,Mainstream,372,61.84
+20541,0070005A,Los Angeles,Unincorporated,37,Mainstream,1111,74.11
+24373,0084026,Ventura,Simi Valley,37,Mainstream,621,64.54
+23787,0084065,Ventura,Simi Valley,37,Mainstream,784,54.43
+23996,0092097,Ventura,Thousand Oaks,37,Mainstream,671,58.39
+24460,0039001,Ventura,Moorpark,37,Mainstream,599,67.91
+24573,0092122,Ventura,Thousand Oaks,37,Mainstream,647,71.41
+23904,0092063,Ventura,Thousand Oaks,38,Mainstream,667,71.04
+24296,0044016,Ventura,Unincorporated,38,Mainstream,425,62.94
+24290,0044012,Ventura,Unincorporated,38,Mainstream,728,72.6
+23929,0092037,Ventura,Thousand Oaks,38,Mainstream,807,61.22
+24734,0007023,Ventura,Camarillo,38,Mainstream,482,73.23
+24760,0007035,Ventura,Camarillo,38,Mainstream,261,56.35
+23984,0092041,Ventura,Thousand Oaks,38,Mainstream,735,66.03
+24026,0092082,Ventura,Thousand Oaks,38,Mainstream,685,67.17
+23907,0092064,Ventura,Thousand Oaks,38,Mainstream,461,69.41
+24013,0092074,Ventura,Thousand Oaks,38,Mainstream,777,63.96
+23508,0007054,Ventura,Camarillo,39,Mainstream,625,61.41
+24254,0084004,Ventura,Simi Valley,39,Mainstream,650,62.98
+24335,0084030,Ventura,Simi Valley,39,Mainstream,615,65.87
+23764,0092011,Ventura,Thousand Oaks,39,Mainstream,464,61.71
+24171,0044006,Ventura,Unincorporated,39,Mainstream,347,69.0
+24754,0007031,Ventura,Camarillo,39,Mainstream,336,63.92
+24015,0092076,Ventura,Thousand Oaks,39,Mainstream,588,63.95
+23798,0092029,Ventura,Thousand Oaks,39,Mainstream,498,68.8
+24334,0084031,Ventura,Simi Valley,39,Mainstream,681,57.46
+24755,0007034,Ventura,Camarillo,39,Mainstream,602,60.31
+23988,0092099,Ventura,Thousand Oaks,39,Mainstream,545,73.27
+19149,7770030A,Los Angeles,Westlake Village,40,Mainstream,4588,74.95
+24151,0044008,Ventura,Unincorporated,40,Mainstream,726,63.58
+23791,0092023,Ventura,Thousand Oaks,40,Mainstream,687,67.45
+23789,0084068,Ventura,Simi Valley,40,Mainstream,746,72.07
+23796,0092027,Ventura,Thousand Oaks,40,Mainstream,661,68.95
+23887,0092051,Ventura,Thousand Oaks,40,Mainstream,901,64.96
+23629,0092100,Ventura,Thousand Oaks,40,Mainstream,738,63.44
+23866,0084098,Ventura,Simi Valley,40,Mainstream,475,61.1
+24551,0092116,Ventura,Thousand Oaks,40,Mainstream,673,67.14
+24499,0095006,Ventura,Unincorporated,41,Mainstream,515,70.69
+23905,0092062,Ventura,Thousand Oaks,41,Mainstream,840,66.33
+24496,0039014,Ventura,Moorpark,41,Mainstream,550,72.28
+24361,0084013,Ventura,Simi Valley,41,Mainstream,662,60.35
+24534,0092111,Ventura,Thousand Oaks,41,Mainstream,391,68.5
+23986,0092043,Ventura,Thousand Oaks,41,Mainstream,655,62.27
+23985,0092040,Ventura,Thousand Oaks,41,Mainstream,827,60.57
+23927,0092038,Ventura,Thousand Oaks,41,Mainstream,726,56.7
+23652,0084078,Ventura,Simi Valley,41,Mainstream,380,62.04
+23620,0092107,Ventura,Thousand Oaks,41,Mainstream,716,69.44
+23924,0039024,Ventura,Moorpark,41,Mainstream,861,70.07
+23783,0084063,Ventura,Simi Valley,41,Mainstream,718,59.83
+23903,0092060,Ventura,Thousand Oaks,41,Mainstream,356,68.7
+24379,0084028,Ventura,Simi Valley,42,Mainstream,352,40.83
+23794,0092025,Ventura,Thousand Oaks,42,Mainstream,632,72.53
+24453,0039006,Ventura,Moorpark,42,Mainstream,643,67.82
+23768,0092015,Ventura,Thousand Oaks,42,Mainstream,589,69.77
+23885,0092052,Ventura,Thousand Oaks,42,Mainstream,461,58.58
+24398,0084021,Ventura,Simi Valley,42,Mainstream,596,71.15
+23765,0092014,Ventura,Thousand Oaks,42,Mainstream,442,78.69
+24317,0006908,Ventura,Camarillo,42,Mainstream,696,66.87
+24474,0039019,Ventura,Moorpark,42,Mainstream,616,70.17
+23993,0092096,Ventura,Thousand Oaks,42,Mainstream,533,70.61
+23922,0039021,Ventura,Moorpark,42,Mainstream,763,60.89
+23987,0092042,Ventura,Thousand Oaks,42,Mainstream,702,65.52
+24007,0092078,Ventura,Thousand Oaks,42,Mainstream,836,63.58
+24354,0084014,Ventura,Simi Valley,42,Mainstream,492,52.33
+24593,0092120,Ventura,Thousand Oaks,42,Mainstream,596,52.59
+24455,0039008,Ventura,Moorpark,42,Mainstream,485,66.52
+23633,0092104,Ventura,Thousand Oaks,42,Mainstream,700,69.98
+23473,0007052,Ventura,Camarillo,42,Mainstream,602,63.86
+24014,0092073,Ventura,Thousand Oaks,42,Mainstream,805,68.04
+23644,0084072,Ventura,Simi Valley,43,Mainstream,604,74.91
+24740,0007026,Ventura,Camarillo,43,Mainstream,357,69.79
+23449,0084110,Ventura,Simi Valley,43,Mainstream,669,66.45
+24585,0092127,Ventura,Thousand Oaks,43,Mainstream,455,62.97
+24021,0092081,Ventura,Thousand Oaks,43,Mainstream,586,68.37
+23840,0092007,Ventura,Thousand Oaks,43,Mainstream,717,71.43
+23775,0084069,Ventura,Simi Valley,43,Mainstream,690,72.42
+24381,0084027,Ventura,Simi Valley,43,Mainstream,691,62.18
+23700,0084085,Ventura,Simi Valley,43,Mainstream,757,61.12
+24509,0095009,Ventura,Unincorporated,43,Mainstream,695,67.1
+24321,0084037,Ventura,Simi Valley,43,Mainstream,803,63.19
+24268,0084007,Ventura,Simi Valley,43,Mainstream,739,68.17
+23803,0092021,Ventura,Thousand Oaks,43,Mainstream,895,68.26
+23707,0084089,Ventura,Simi Valley,44,Mainstream,660,60.78
+23676,0006910,Ventura,Camarillo,44,Mainstream,703,65.56
+23666,0084071,Ventura,Simi Valley,44,Mainstream,197,59.66
+23868,0092055,Ventura,Thousand Oaks,44,Mainstream,605,67.61
+23869,0092058,Ventura,Thousand Oaks,44,Mainstream,755,69.83
+23971,0092046,Ventura,Thousand Oaks,44,Mainstream,368,61.81
+23938,0024001,Ventura,Unincorporated,44,Mainstream,386,64.02
+24257,0084003,Ventura,Simi Valley,44,Mainstream,530,62.48
+23509,0084105,Ventura,Simi Valley,44,Mainstream,654,62.0
+24545,0092115,Ventura,Thousand Oaks,44,Mainstream,389,65.59
+24457,0039009,Ventura,Moorpark,44,Mainstream,550,64.93
+23439,0084113,Ventura,Simi Valley,44,Mainstream,478,63.08
+23974,0039037,Ventura,Moorpark,44,Mainstream,710,69.22
+24347,0084041,Ventura,Simi Valley,45,Mainstream,615,64.1
+24054,0014202,Ventura,Unincorporated,45,Mainstream,374,69.6
+23728,0084059,Ventura,Simi Valley,45,Mainstream,745,68.93
+23773,0092010,Ventura,Thousand Oaks,45,Mainstream,477,63.44
+23867,0092056,Ventura,Thousand Oaks,45,Mainstream,480,64.4
+23670,0084070,Ventura,Simi Valley,45,Mainstream,655,63.21
+23684,0006913,Ventura,Camarillo,45,Mainstream,555,63.97
+24462,0039003,Ventura,Moorpark,45,Mainstream,534,61.84
+23949,0024000,Ventura,Unincorporated,45,Mainstream,648,66.34
+24000,0092090,Ventura,Thousand Oaks,45,Mainstream,615,64.3
+24018,0092088,Ventura,Thousand Oaks,45,Mainstream,935,69.02
+24756,0007033,Ventura,Camarillo,46,Mainstream,558,60.94
+24729,0007028,Ventura,Camarillo,46,Mainstream,363,69.91
+24540,0092113,Ventura,Thousand Oaks,46,Mainstream,483,70.91
+23515,0084106,Ventura,Simi Valley,46,Mainstream,509,62.03
+23520,0084108,Ventura,Simi Valley,46,Mainstream,488,67.59
+24010,0092070,Ventura,Thousand Oaks,46,Mainstream,661,62.29
+24028,0092084,Ventura,Thousand Oaks,46,Mainstream,346,82.92
+24027,0092085,Ventura,Thousand Oaks,46,Mainstream,736,75.6
+24324,0084036,Ventura,Simi Valley,46,Mainstream,498,70.44
+23918,0092034,Ventura,Thousand Oaks,46,Mainstream,452,64.58
+23906,0092065,Ventura,Thousand Oaks,46,Mainstream,523,70.91
+23967,0092044,Ventura,Thousand Oaks,46,Mainstream,612,73.58
+24012,0092071,Ventura,Thousand Oaks,46,Mainstream,690,67.49
+24360,0084010,Ventura,Simi Valley,46,Mainstream,706,66.18
+23841,0092006,Ventura,Thousand Oaks,46,Mainstream,398,67.84
+23881,0084092,Ventura,Simi Valley,46,Mainstream,493,58.09
+23730,0006922,Ventura,Camarillo,46,Mainstream,531,61.61
+24502,0095005,Ventura,Unincorporated,46,Mainstream,398,75.0
+23651,0084079,Ventura,Simi Valley,47,Mainstream,388,64.31
+24338,0084032,Ventura,Simi Valley,47,Mainstream,354,61.63
+23935,0092030,Ventura,Thousand Oaks,47,Mainstream,413,69.31
+23702,0084088,Ventura,Simi Valley,47,Mainstream,516,74.75
+23681,0006911,Ventura,Camarillo,47,Mainstream,581,65.63
+24352,0084045,Ventura,Simi Valley,47,Mainstream,636,58.21
+23831,0092009,Ventura,Thousand Oaks,47,Mainstream,802,72.25
+23767,0092016,Ventura,Thousand Oaks,47,Mainstream,576,68.58
+20070,7770011A,Los Angeles,Westlake Village,47,Mainstream,1400,
+23487,0007049,Ventura,Camarillo,47,Mainstream,392,55.53
+24515,0095000,Ventura,Unincorporated,47,Mainstream,702,67.61
+23474,0007051,Ventura,Camarillo,47,Mainstream,599,69.24
+24577,0092123,Ventura,Thousand Oaks,47,Mainstream,511,67.36
+24721,0007030,Ventura,Camarillo,47,Mainstream,583,73.87
+23718,0084082,Ventura,Simi Valley,48,Mainstream,701,73.21
+23722,0006921,Ventura,Camarillo,48,Mainstream,731,78.87
+23715,0084080,Ventura,Simi Valley,48,Mainstream,798,68.32
+23779,0084061,Ventura,Simi Valley,48,Mainstream,401,66.93
+23832,0092008,Ventura,Thousand Oaks,48,Mainstream,784,69.24
+23870,0092057,Ventura,Thousand Oaks,48,Mainstream,597,69.01
+24345,0084040,Ventura,Simi Valley,48,Mainstream,495,62.72
+23908,0039028,Ventura,Moorpark,48,Mainstream,250,66.81
+23631,0092101,Ventura,Thousand Oaks,48,Mainstream,554,81.84
+24472,0039017,Ventura,Moorpark,48,Mainstream,627,71.26
+24731,0007021,Ventura,Camarillo,48,Mainstream,531,70.96
+24738,0007024,Ventura,Camarillo,48,Mainstream,438,69.29
+23777,0084062,Ventura,Simi Valley,48,Mainstream,674,58.79
+23792,0084067,Ventura,Simi Valley,48,Mainstream,697,65.52
+23860,0084097,Ventura,Simi Valley,48,Mainstream,729,68.35
+23646,0084075,Ventura,Simi Valley,49,Mainstream,565,71.9
+24316,0006909,Ventura,Camarillo,49,Mainstream,586,71.32
+24313,0006904,Ventura,Camarillo,49,Mainstream,820,71.58
+23921,0092033,Ventura,Thousand Oaks,49,Mainstream,487,69.85
+24341,0084034,Ventura,Simi Valley,49,Mainstream,541,66.48
+23964,0092045,Ventura,Thousand Oaks,49,Mainstream,576,69.16
+23925,0092035,Ventura,Thousand Oaks,49,Mainstream,560,68.66
+24543,0092112,Ventura,Thousand Oaks,49,Mainstream,441,68.5
+23872,0092059,Ventura,Thousand Oaks,49,Mainstream,794,66.89
+24355,0084017,Ventura,Simi Valley,49,Mainstream,377,66.67
+23781,0084064,Ventura,Simi Valley,49,Mainstream,785,69.04
+24504,0095008,Ventura,Unincorporated,49,Mainstream,502,65.81
+23454,0084111,Ventura,Simi Valley,50,Mainstream,402,67.81
+24017,0092089,Ventura,Thousand Oaks,50,Mainstream,838,69.16
+24016,0092075,Ventura,Thousand Oaks,50,Mainstream,607,72.09
+23995,0092098,Ventura,Thousand Oaks,50,Mainstream,542,72.02
+23994,0092095,Ventura,Thousand Oaks,50,Mainstream,657,71.68
+24025,0092083,Ventura,Thousand Oaks,50,Mainstream,414,83.17
+24266,0084008,Ventura,Simi Valley,50,Mainstream,583,68.41
+23932,0092039,Ventura,Thousand Oaks,50,Mainstream,748,71.09
+23770,0092018,Ventura,Thousand Oaks,50,Mainstream,740,62.04
+24400,0084024,Ventura,Simi Valley,50,Mainstream,573,70.86
+23650,0084076,Ventura,Simi Valley,50,Mainstream,607,71.94
+23696,0084083,Ventura,Simi Valley,50,Mainstream,628,71.52
+24489,0039011,Ventura,Moorpark,50,Mainstream,1008,73.94
+23648,0084074,Ventura,Simi Valley,50,Mainstream,579,66.85
+23975,0092048,Ventura,Thousand Oaks,51,Mainstream,904,67.94
+23946,0039038,Ventura,Moorpark,51,Mainstream,719,66.96
+23785,0084066,Ventura,Simi Valley,51,Mainstream,733,72.09
+23804,0092020,Ventura,Thousand Oaks,51,Mainstream,828,69.43
+23749,0084050,Ventura,Simi Valley,51,Mainstream,613,65.42
+23636,0092106,Ventura,Thousand Oaks,51,Mainstream,626,67.62
+23989,0092092,Ventura,Thousand Oaks,51,Mainstream,630,73.22
+23801,0084060,Ventura,Simi Valley,51,Mainstream,562,65.15
+24280,0084001,Ventura,Simi Valley,51,Mainstream,901,62.87
+23484,0007046,Ventura,Camarillo,51,Mainstream,445,71.36
+23529,0084100,Ventura,Simi Valley,51,Mainstream,316,63.49
+23720,0084081,Ventura,Simi Valley,51,Mainstream,639,68.63
+24312,0006905,Ventura,Camarillo,51,Mainstream,644,72.82
+23857,0084094,Ventura,Simi Valley,52,Mainstream,540,73.36
+23760,0092012,Ventura,Thousand Oaks,52,Mainstream,680,76.42
+23889,0092054,Ventura,Thousand Oaks,52,Mainstream,640,76.29
+23470,0007078,Ventura,Camarillo,52,Mainstream,733,71.1
+24450,0090004,Ventura,Unincorporated,52,Mainstream,230,71.56
+23751,0084053,Ventura,Simi Valley,52,Mainstream,554,65.09
+23755,0084055,Ventura,Simi Valley,52,Mainstream,646,68.17
+23916,0039020,Ventura,Moorpark,53,Mainstream,702,70.51
+23898,0092069,Ventura,Thousand Oaks,53,Mainstream,684,71.39
+23680,0006912,Ventura,Camarillo,53,Mainstream,654,64.82
+24458,0039000,Ventura,Moorpark,53,Mainstream,569,75.05
+24343,0084047,Ventura,Simi Valley,53,Mainstream,615,67.8
+23747,0084051,Ventura,Simi Valley,53,Mainstream,671,70.24
+23795,0092024,Ventura,Thousand Oaks,53,Mainstream,546,74.42
+24030,0092086,Ventura,Thousand Oaks,53,Mainstream,395,53.23
+23854,0084095,Ventura,Simi Valley,54,Mainstream,445,71.19
+23838,0092005,Ventura,Thousand Oaks,54,Mainstream,488,73.28
+23762,0084056,Ventura,Simi Valley,54,Mainstream,659,71.23
+23882,0092050,Ventura,Thousand Oaks,54,Mainstream,766,76.92
+24547,0092114,Ventura,Thousand Oaks,54,Mainstream,721,71.12
+24350,0084046,Ventura,Simi Valley,54,Mainstream,671,70.58
+24476,0039018,Ventura,Moorpark,54,Mainstream,733,70.81
+24357,0084019,Ventura,Simi Valley,54,Mainstream,327,68.49
+23513,0084107,Ventura,Simi Valley,55,Mainstream,640,73.14
+24493,0039015,Ventura,Moorpark,55,Mainstream,517,70.14
+23970,0039035,Ventura,Moorpark,55,Mainstream,609,75.97
+23793,0092022,Ventura,Thousand Oaks,55,Mainstream,708,71.94
+23757,0084054,Ventura,Simi Valley,55,Mainstream,748,74.65
+24742,0007040,Ventura,Camarillo,55,Mainstream,616,70.07
+24531,0092118,Ventura,Thousand Oaks,55,Mainstream,447,79.14
+23507,0084102,Ventura,Simi Valley,55,Mainstream,490,70.37
+23766,0092013,Ventura,Thousand Oaks,56,Mainstream,516,76.91
+23863,0084096,Ventura,Simi Valley,56,Mainstream,728,72.77
+23598,0006930,Ventura,Camarillo,56,Mainstream,476,73.09
+24506,0095007,Ventura,Unincorporated,56,Mainstream,507,68.66
+24029,0092087,Ventura,Thousand Oaks,57,Mainstream,454,74.88
+24356,0084016,Ventura,Simi Valley,57,Mainstream,626,66.72
+24521,0095001,Ventura,Unincorporated,57,Mainstream,439,77.29
+24492,0039012,Ventura,Moorpark,57,Mainstream,682,69.48
+23965,0039033,Ventura,Moorpark,58,Mainstream,508,66.87
+23452,0084112,Ventura,Simi Valley,59,Mainstream,402,82.89
+24336,0084033,Ventura,Simi Valley,59,Mainstream,630,68.56
+23926,0039023,Ventura,Moorpark,59,Mainstream,554,71.48
+23698,0084086,Ventura,Simi Valley,59,Mainstream,597,66.43
+24517,0074001,Ventura,Unincorporated,59,Mainstream,630,79.97
+24383,0084029,Ventura,Simi Valley,59,Mainstream,674,63.73
+24390,0084020,Ventura,Simi Valley,59,Mainstream,477,75.7
+23731,0084058,Ventura,Simi Valley,60,Mainstream,753,73.4
+24359,0084011,Ventura,Simi Valley,61,Mainstream,793,74.84
+24349,0084043,Ventura,Simi Valley,61,Mainstream,570,71.27
+23753,0084052,Ventura,Simi Valley,61,Mainstream,518,70.46
+23899,0092068,Ventura,Thousand Oaks,61,Mainstream,699,74.06
+24330,0084038,Ventura,Simi Valley,61,Mainstream,525,71.75
+23630,0092102,Ventura,Thousand Oaks,61,Mainstream,639,82.19
+24358,0084018,Ventura,Simi Valley,62,Mainstream,621,71.96
+23518,0084109,Ventura,Simi Valley,63,Mainstream,548,76.25
+23642,0084073,Ventura,Simi Valley,63,Mainstream,640,74.1
+24340,0084035,Ventura,Simi Valley,63,Mainstream,408,69.79
+24523,0074002,Ventura,Unincorporated,64,Mainstream,601,80.34
+24327,0084039,Ventura,Simi Valley,64,Mainstream,443,70.81
+23485,0085000,Ventura,Unincorporated,65,Mainstream,349,78.53
+23694,0084084,Ventura,Simi Valley,65,Mainstream,578,78.83
+23604,0006934,Ventura,Camarillo,65,Mainstream,272,84.74
+24632,0081000,Ventura,Unincorporated,66,Mainstream,720,83.7
+24498,0074005,Ventura,Unincorporated,67,Moderate,549,77.82
+23649,0084077,Ventura,Simi Valley,68,Moderate,435,69.71
+23705,0084087,Ventura,Simi Valley,70,Moderate,195,81.62
+24631,0081001,Ventura,Unincorporated,71,Moderate,440,82.28
+24344,0084049,Ventura,Simi Valley,73,Moderate,588,81.56
+23878,0084093,Ventura,Simi Valley,75,Moderate,721,79.25
+24401,0084023,Ventura,Simi Valley,83,Moderate,380,77.32
+24342,0084048,Ventura,Simi Valley,88,Moderate,542,80.66
+24520,0074000,Ventura,Unincorporated,96,Moderate,365,87.11

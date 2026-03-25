@@ -1,0 +1,6 @@
+,moderate_score,moderate_score,moderate_score,moderate_score,moderate_score,turnout_totreg_r,biden_pct,bloomberg_pct,sanders_pct,prop36_yes_pct,prop33_yes_pct
+,count,mean,std,min,max,sum,mean,mean,mean,mean,mean
+ideology_bloc,,,,,,,,,,,
+Mainstream Democrat,44,0.01,0.15,-0.23,0.23,38492.0,34.89,12.66,28.77,71.56,32.81
+Moderate,43,0.7,0.41,0.25,1.83,34782.0,39.52,17.18,21.94,74.19,25.74
+Progressive,43,-0.71,0.4,-1.9,-0.24,27141.0,29.04,9.5,37.83,68.53,39.14

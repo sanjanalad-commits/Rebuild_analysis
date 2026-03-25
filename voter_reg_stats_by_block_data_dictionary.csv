@@ -1,0 +1,141 @@
+FIELD,DESCRIPTION,DATA_TYPE,MAX_SIZE
+BLOCK20,2020 Census Block GEOID,A/N,15
+ELECTION,Election,A/N,3
+TYPE,Voting Method,A/N,1
+TOTREG_R,Total Registration,N,8
+DEM,Democratic Party Registration,N,8
+REP,Republican Party Registration,N,8
+AIP,American Independent Party Registration,N,8
+PAF,Peace and Freedom Party Registration,N,8
+MSC,Miscellaneous Registration,N,8
+LIB,Libertarian Party Registration,N,8
+NLP,Natural Law Party Registration,N,8
+GRN,Green Party Registration,N,8
+REF,Reform Party Registration,N,8
+DCL,Declined to State Registration,N,8
+MALE,Male,N,8
+FEMALE,Female,N,8
+HISP_DEM,Latino Democrats,N,8
+HISP_REP,Latino Republicans,N,8
+HISP_DCL,Latino Declined to State,N,8
+HISP_OTH,Latino Other Party,N,8
+JEW_DEM,Jewish Democrat,N,8
+JEW_REP,Jewish Republican,N,8
+JEW_DCL,Jewish Declined to State,N,8
+JEW_OTH,Jewish Other Party,N,8
+KOR_DEM,Korean Democrat,N,8
+KOR_REP,Korean Republican,N,8
+KOR_DCL,Korean Declined to State,N,8
+KOR_OTH,Korean Other Party,N,8
+JPN_DEM,Japanese Democrat,N,8
+JPN_REP,Japanese Republican,N,8
+JPN_DCL,Japanese Declined to State,N,8
+JPN_OTH,Japanese Other Party,N,8
+CHI_DEM,Chinese Democrat,N,8
+CHI_REP,Chinese Republican,N,8
+CHI_DCL,Chinese Declined to State,N,8
+CHI_OTH,Chinese Other Party,N,8
+IND_DEM,Asian Indian Democrat,N,8
+IND_REP,Asian Indian Republican,N,8
+IND_DCL,Asian Indian Declined to State,N,8
+IND_OTH,Asian Indian Other Party,N,8
+VIET_DEM,Vietnamese Democrat,N,8
+VIET_REP,Vietnamese Republican,N,8
+VIET_DCL,Vietnamese Declined to State,N,8
+VIET_OTH,Vietnamese Other Party,N,8
+FIL_DEM,Filipino Democrat,N,8
+FIL_REP,Filipino Republican,N,8
+FIL_DCL,Filipino Declined to State,N,8
+FIL_OTH,Filipino Other Party,N,8
+DEM_M_UNK,Dem Male age unknown,N,8
+DEM_M_1824,Dem Male age 18-24,N,8
+DEM_M_2534,Dem Male age 25-34,N,8
+DEM_M_3544,Dem Male age 35-44,N,8
+DEM_M_4554,Dem Male age 45-54,N,8
+DEM_M_5564,Dem Male age 55-64,N,8
+DEM_M_65PL,Dem Male age 65 Plus,N,8
+DEM_F_UNK,Dem female age unknown,N,8
+DEM_F_1824,Dem female age 18-24,N,8
+DEM_F_2534,Dem female age 25-34,N,8
+DEM_F_3544,Dem female age 35-44,N,8
+DEM_F_4554,Dem female age 45-54,N,8
+DEM_F_5564,Dem female age 55-64,N,8
+DEM_F_65PL,Dem female age 65 Plus,N,8
+REP_M_UNK,Rep male age unknown,N,8
+REP_M_1824,Rep male age 18-24,N,8
+REP_M_2534,Rep male age 25-34,N,8
+REP_M_3544,Rep male age 35-44,N,8
+REP_M_4554,Rep male age 45-54,N,8
+REP_M_5564,Rep male age 55-64,N,8
+REP_M_65PL,Rep male age 65 Plus,N,8
+REP_F_UNK,Rep female age unknown,N,8
+REP_F_1824,Rep female age 18-24,N,8
+REP_F_2534,Rep female age 25-34,N,8
+REP_F_3544,Rep female age 35-44,N,8
+REP_F_4554,Rep female age 45-54,N,8
+REP_F_5564,Rep female age 55-64,N,8
+REP_F_65PL,Rep female age 65 Plus,N,8
+DCL_M_UNK,Declined to State male age unknown,N,8
+DCL_M_1824,Declined to State male age 18-24,N,8
+DCL_M_2534,Declined to State male age 25-34,N,8
+DCL_M_3544,Declined to State male age 35-44,N,8
+DCL_M_4554,Declined to State male age 45-54,N,8
+DCL_M_5564,Declined to State male age 55-64,N,8
+DCL_M_65PL,Declined to State male age 65 Plus,N,8
+DCL_F_UNK,Declined to State female age unknown,N,8
+DCL_F_1824,Declined to State female age 18-24,N,8
+DCL_F_2534,Declined to State female age 25-34,N,8
+DCL_F_3544,Declined to State female age 35-44,N,8
+DCL_F_4554,Declined to State female age 45-54,N,8
+DCL_F_5564,Declined to State female age 55-64,N,8
+DCL_F_65PL,Declined to State female age 65 Plus,N,8
+OTH_M_UNK,Other Party male age unknown,N,8
+OTH_M_1824,Other Party male age 18-24,N,8
+OTH_M_2534,Other Party male age 25-34,N,8
+OTH_M_3544,Other Party male age 35-44,N,8
+OTH_M_4554,Other Party male age 45-54,N,8
+OTH_M_5564,Other Party male age 55-64,N,8
+OTH_M_65PL,Other Party male age 65 Plus,N,8
+OTH_F_UNK,Other Party female age unknown,N,8
+OTH_F_1824,Other Party female age 18-24,N,8
+OTH_F_2534,Other Party female age 25-34,N,8
+OTH_F_3544,Other Party female age 35-44,N,8
+OTH_F_4554,Other Party female age 45-54,N,8
+OTH_F_5564,Other Party female age 55-64,N,8
+OTH_F_65PL,Other Party female age 65 Plus,N,8
+DREG_1G,Dem registered 1 cycle,N,8
+DREG_2G,Dem registered 2 cycles,N,8
+DREG_3G,Dem registered 3 cycles,N,8
+DREG_4G,Dem registered 4 cycles,N,8
+DREG_5G,Dem registered 5 cycles,N,8
+DREG_6G,Dem registered 6 cycles,N,8
+DREG_7G,Dem registered 7 cycles,N,8
+DREG_8G,Dem registered 8 cycles,N,8
+DREG_9G,Dem registered 9 cycles,N,8
+RREG_1G,REP registered 1 cycle,N,8
+RREG_2G,REP registered 2 cycles,N,8
+RREG_3G,REP registered 3 cycles,N,8
+RREG_4G,REP registered 4 cycles,N,8
+RREG_5G,REP registered 5 cycles,N,8
+RREG_6G,REP registered 6 cycles,N,8
+RREG_7G,REP registered 7 cycles,N,8
+RREG_8G,REP registered 8 cycles,N,8
+RREG_9G,REP registered 9 cycles,N,8
+IREG_1G,Declined to state registration 1 cycle  ,N,8
+IREG_2G,Declined to state registration 2 cycles,N,8
+IREG_3G,Declined to state registration 3 cycles,N,8
+IREG_4G,Declined to state registration 4 cycles,N,8
+IREG_5G,Declined to state registration 5 cycles,N,8
+IREG_6G,Declined to state registration 6 cycles,N,8
+IREG_7G,Declined to state registration 7 cycles,N,8
+IREG_8G,Declined to state registration 8 cycles,N,8
+IREG_9G,Declined to State registered 9 cycles,N,8
+OREG_1G,OTHER PARTY registered 1 cycle ,N,8
+OREG_2G,OTHER PARTY registered 2 cycles,N,8
+OREG_3G,OTHER PARTY registered 3 cycles ,N,8
+OREG_4G,OTHER PARTY registered 4 cycles,N,8
+OREG_5G,OTHER PARTY registered 5 cycles ,N,8
+OREG_6G,OTHER PARTY registered 6 cycles ,N,8
+OREG_7G,OTHER PARTY registered 7 cycles ,N,8
+OREG_8G,OTHER PARTY registered 8 cycles ,N,8
+OREG_9G,OTHER Party registered 9 cycles,N,8

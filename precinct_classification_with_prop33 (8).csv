@@ -1,0 +1,383 @@
+precinct_id,srprec,county,city,classification_score,classification_category,competitive_score,competitive_category,dem_rep_margin,total_voters,prop_33_no_pct,dem_turnout_pct,rep_turnout_pct,classification_7cat,dem_advantage
+20139,7100004B,Los Angeles,Unincorporated,8,Progressive,2,Not Competitive,51.25,3631,58.59,66.2,14.96,Progressive Dem,51.25
+24687,0005300,Ventura,Unincorporated,8,Progressive,4,Not Competitive,37.59,1099,44.55,60.2,22.6,Progressive Dem,37.59
+23909,0039027,Ventura,Moorpark,8,Progressive,13,Not Competitive,18.39,226,43.58,50.57,32.18,Progressive Dem,18.39
+23897,0092066,Ventura,Thousand Oaks,8,Progressive,4,Not Competitive,37.5,412,43.22,61.84,24.34,Progressive Dem,37.5
+20884,7100030A,Los Angeles,Unincorporated,8,Progressive,2,Not Competitive,54.5,1233,,69.59,15.09,Progressive Dem,54.5
+19105,7470001A,Los Angeles,Unincorporated,9,Progressive,15,Not Competitive,11.11,178,38.75,45.56,34.44,Progressive Dem,11.11
+19761,9007689A,Los Angeles,Los Angeles,9,Progressive,5,Not Competitive,41.17,2266,,61.3,20.12,Progressive Dem,41.17
+19658,9000267A,Los Angeles,Los Angeles,9,Progressive,7,Not Competitive,37.71,1803,,59.51,21.8,Progressive Dem,37.71
+23833,0092001,Ventura,Thousand Oaks,9,Progressive,15,Not Competitive,16.84,684,46.74,50.17,33.33,Progressive Dem,16.84
+23937,0092032,Ventura,Thousand Oaks,9,Progressive,3,Not Competitive,30.67,315,39.86,58.67,28.0,Progressive Dem,30.67
+20760,9001364A,Los Angeles,Los Angeles,10,Progressive,6,Not Competitive,38.43,1728,,61.11,22.69,Progressive Dem,38.43
+20560,9005918A,Los Angeles,Los Angeles,10,Progressive,2,Not Competitive,58.31,1676,70.16,71.04,12.74,Progressive Dem,58.31
+24461,0039004,Ventura,Moorpark,10,Progressive,1,Not Competitive,60.84,555,50.0,74.83,13.99,Progressive Dem,60.84
+19704,1000006A,Los Angeles,Calabasas,10,Progressive,12,Not Competitive,32.55,1023,,57.58,25.02,Progressive Dem,32.55
+19041,9001312A,Los Angeles,Los Angeles,10,Progressive,3,Not Competitive,44.81,1446,,63.55,18.74,Progressive Dem,44.81
+19024,9001317C,Los Angeles,Los Angeles,10,Progressive,3,Not Competitive,52.17,2614,52.22,66.18,14.01,Progressive Dem,52.17
+23874,0084091,Ventura,Simi Valley,11,Progressive,65,Competitive,13.59,230,50.22,32.07,45.65,Progressive Dem,-13.59
+24473,0039016,Ventura,Moorpark,11,Progressive,6,Not Competitive,29.63,243,57.71,58.33,28.7,Progressive Dem,29.63
+20199,9005923A,Los Angeles,Los Angeles,11,Progressive,11,Not Competitive,30.79,1926,,55.82,25.03,Progressive Dem,30.79
+24490,0039010,Ventura,Moorpark,11,Progressive,5,Not Competitive,23.37,437,51.87,55.98,32.61,Progressive Dem,23.37
+20469,1000077A,Los Angeles,Calabasas,11,Progressive,47,Competitive,18.6,1113,,50.49,31.9,Progressive Dem,18.6
+24549,0092117,Ventura,Thousand Oaks,12,Progressive,10,Not Competitive,32.7,343,49.84,57.86,25.16,Progressive Dem,32.7
+23968,0039032,Ventura,Moorpark,12,Progressive,11,Not Competitive,21.3,445,47.61,54.44,33.14,Progressive Dem,21.3
+23505,0084103,Ventura,Simi Valley,12,Progressive,47,Competitive,14.29,360,45.01,47.06,32.77,Progressive Dem,14.29
+23834,0092000,Ventura,Thousand Oaks,12,Progressive,9,Not Competitive,28.09,378,43.54,55.62,27.53,Progressive Dem,28.09
+23839,0092004,Ventura,Thousand Oaks,12,Progressive,13,Not Competitive,24.22,647,49.11,53.12,28.91,Progressive Dem,24.22
+24009,0092079,Ventura,Thousand Oaks,12,Progressive,13,Not Competitive,32.43,506,43.63,55.14,22.7,Progressive Dem,32.43
+20486,0070008A,Los Angeles,Unincorporated,13,Progressive,79,Highly Competitive,10.83,360,,45.0,34.17,Progressive Dem,10.83
+24574,0092121,Ventura,Thousand Oaks,13,Progressive,27,Not Competitive,15.93,603,51.64,47.79,31.86,Progressive Dem,15.93
+23891,0092053,Ventura,Thousand Oaks,13,Progressive,12,Not Competitive,28.65,460,54.08,54.05,25.41,Progressive Dem,28.65
+24263,0084005,Ventura,Simi Valley,13,Progressive,63,Competitive,3.77,422,51.5,42.77,38.99,Progressive Dem,3.77
+24289,0044013,Ventura,Unincorporated,13,Progressive,20,Not Competitive,20.45,571,50.09,50.19,29.74,Progressive Dem,20.45
+23717,0006929,Ventura,Camarillo,14,Progressive,76,Highly Competitive,1.28,165,56.41,35.9,37.18,Progressive Dem,-1.28
+24379,0084028,Ventura,Simi Valley,14,Progressive,41,Competitive,21.82,352,40.83,52.73,30.91,Progressive Dem,21.82
+20070,7770011A,Los Angeles,Westlake Village,14,Progressive,92,Highly Competitive,0.21,1400,,41.0,41.21,Progressive Dem,-0.21
+23472,0007050,Ventura,Camarillo,14,Progressive,18,Not Competitive,17.02,347,45.09,48.94,31.91,Progressive Dem,17.02
+24537,0092110,Ventura,Thousand Oaks,14,Progressive,15,Not Competitive,23.16,593,53.13,54.8,31.64,Progressive Dem,23.16
+23939,0092031,Ventura,Thousand Oaks,14,Progressive,35,Competitive,15.86,374,47.49,45.52,29.66,Progressive Dem,15.86
+19317,4060005A,Los Angeles,Unincorporated,15,Progressive,5,Not Competitive,41.43,150,65.69,57.14,15.71,Mainstream Dem,41.43
+20225,9005833A,Los Angeles,Los Angeles,15,Progressive,3,Not Competitive,47.9,3211,62.0,64.64,16.74,Mainstream Dem,47.9
+24023,0092080,Ventura,Thousand Oaks,15,Progressive,20,Not Competitive,21.6,536,52.31,50.4,28.8,Mainstream Dem,21.6
+24593,0092120,Ventura,Thousand Oaks,15,Progressive,21,Not Competitive,19.55,596,52.59,48.5,28.95,Mainstream Dem,19.55
+23973,0092049,Ventura,Thousand Oaks,15,Progressive,25,Not Competitive,22.73,222,56.04,53.03,30.3,Mainstream Dem,22.73
+24166,0044000,Ventura,Unincorporated,16,Progressive,12,Not Competitive,20.22,448,59.07,49.06,28.84,Mainstream Dem,20.22
+24576,0092124,Ventura,Thousand Oaks,16,Progressive,56,Competitive,10.33,556,55.19,42.56,32.23,Mainstream Dem,10.33
+23836,0092003,Ventura,Thousand Oaks,16,Progressive,10,Not Competitive,20.98,394,49.32,50.35,29.37,Mainstream Dem,20.98
+23927,0092038,Ventura,Thousand Oaks,16,Progressive,20,Not Competitive,12.95,726,56.7,48.44,35.49,Mainstream Dem,12.95
+23896,0092067,Ventura,Thousand Oaks,16,Progressive,23,Not Competitive,24.23,753,55.63,51.53,27.3,Mainstream Dem,24.23
+24454,0039005,Ventura,Moorpark,16,Progressive,61,Competitive,7.98,622,53.81,45.07,37.09,Mainstream Dem,7.98
+24459,0039002,Ventura,Moorpark,17,Progressive,32,Not Competitive,11.59,614,53.46,45.92,34.33,Mainstream Dem,11.59
+24346,0084042,Ventura,Simi Valley,17,Progressive,60,Competitive,0.36,592,56.69,41.79,41.43,Mainstream Dem,0.36
+24172,0044005,Ventura,Unincorporated,17,Progressive,7,Not Competitive,26.19,449,63.36,58.73,32.54,Mainstream Dem,26.19
+23991,0092094,Ventura,Thousand Oaks,17,Progressive,28,Not Competitive,20.3,504,61.3,51.29,31.0,Mainstream Dem,20.3
+20596,0070006A,Los Angeles,Unincorporated,17,Progressive,8,Not Competitive,37.8,1330,72.1,61.06,23.25,Mainstream Dem,37.8
+20464,4050051A,Los Angeles,Malibu,18,Progressive,28,Not Competitive,19.68,2035,68.65,50.58,30.91,Mainstream Dem,19.68
+19717,9001382A,Los Angeles,Los Angeles,18,Progressive,7,Not Competitive,34.89,2344,76.18,58.58,23.69,Mainstream Dem,34.89
+24354,0084014,Ventura,Simi Valley,18,Progressive,51,Competitive,14.29,492,52.33,35.45,49.74,Mainstream Dem,-14.29
+23787,0084065,Ventura,Simi Valley,18,Progressive,85,Highly Competitive,3.1,784,54.43,39.79,42.89,Mainstream Dem,-3.1
+23737,0006924,Ventura,Camarillo,18,Progressive,26,Not Competitive,22.67,365,64.04,50.0,27.33,Mainstream Dem,22.67
+23772,0092017,Ventura,Thousand Oaks,18,Progressive,35,Competitive,12.18,634,57.07,46.13,33.95,Mainstream Dem,12.18
+24293,0044014,Ventura,Unincorporated,19,Progressive,13,Not Competitive,24.93,672,61.25,54.2,29.27,Mainstream Dem,24.93
+24287,0044011,Ventura,Unincorporated,19,Progressive,8,Not Competitive,33.33,664,59.04,58.17,24.84,Mainstream Dem,33.33
+19377,4060001A,Los Angeles,Unincorporated,19,Progressive,22,Not Competitive,31.24,794,69.78,55.06,23.82,Mainstream Dem,31.24
+24795,0007003,Ventura,Camarillo,19,Progressive,34,Competitive,19.87,403,54.45,50.0,30.13,Mainstream Dem,19.87
+23996,0092097,Ventura,Thousand Oaks,19,Progressive,44,Competitive,9.02,671,58.39,45.36,36.34,Mainstream Dem,9.02
+23634,0092103,Ventura,Thousand Oaks,20,Progressive,25,Not Competitive,24.42,744,64.35,52.33,27.91,Mainstream Dem,24.42
+24728,0007029,Ventura,Camarillo,20,Progressive,39,Competitive,12.0,470,60.73,47.27,35.27,Mainstream Dem,12.0
+23885,0092052,Ventura,Thousand Oaks,20,Progressive,40,Competitive,3.43,461,58.58,45.06,41.63,Mainstream Dem,3.43
+24334,0084031,Ventura,Simi Valley,20,Progressive,43,Competitive,7.12,681,57.46,45.87,38.75,Mainstream Dem,7.12
+20254,4050059B,Los Angeles,Malibu,20,Progressive,21,Not Competitive,27.68,2171,70.75,53.77,26.09,Mainstream Dem,27.68
+24395,0084022,Ventura,Simi Valley,20,Progressive,62,Competitive,5.53,584,60.31,40.0,45.53,Mainstream Dem,-5.53
+23938,0024001,Ventura,Unincorporated,21,Progressive,38,Competitive,10.43,386,64.02,45.5,35.07,Mainstream Dem,10.43
+19246,1000011A,Los Angeles,Calabasas,21,Progressive,29,Not Competitive,20.59,1588,60.99,50.22,29.63,Mainstream Dem,20.59
+20632,0080007A,Los Angeles,Agoura Hills,21,Progressive,16,Not Competitive,24.11,2937,67.11,52.34,28.23,Mainstream Dem,24.11
+23986,0092043,Ventura,Thousand Oaks,21,Progressive,32,Not Competitive,13.62,655,62.27,46.79,33.16,Mainstream Dem,13.62
+23929,0092037,Ventura,Thousand Oaks,21,Progressive,67,Highly Competitive,5.3,807,61.22,43.61,38.31,Mainstream Dem,5.3
+23867,0092056,Ventura,Thousand Oaks,22,Progressive,69,Highly Competitive,1.81,480,64.4,39.35,41.16,Mainstream Dem,-1.81
+24456,0039007,Ventura,Moorpark,22,Progressive,60,Competitive,7.19,649,61.29,43.41,36.23,Mainstream Dem,7.19
+24529,0092119,Ventura,Thousand Oaks,22,Progressive,16,Not Competitive,12.5,209,68.69,50.83,38.33,Mainstream Dem,12.5
+19017,4060012A,Los Angeles,Unincorporated,22,Progressive,89,Highly Competitive,8.33,175,71.9,44.79,36.46,Mainstream Dem,8.33
+23985,0092040,Ventura,Thousand Oaks,22,Progressive,50,Competitive,3.94,827,60.57,43.54,39.61,Mainstream Dem,3.94
+24168,0044001,Ventura,Unincorporated,22,Progressive,25,Not Competitive,15.58,462,69.0,51.45,35.87,Mainstream Dem,15.58
+24752,0007032,Ventura,Camarillo,23,Progressive,52,Competitive,3.49,801,64.78,43.7,40.21,Mainstream Dem,3.49
+24756,0007033,Ventura,Camarillo,23,Progressive,50,Competitive,7.67,558,60.94,44.6,36.93,Mainstream Dem,7.67
+24353,0084015,Ventura,Simi Valley,23,Progressive,57,Competitive,26.6,257,63.49,24.47,51.06,Mainstream Dem,-26.6
+24376,0084025,Ventura,Simi Valley,23,Progressive,86,Highly Competitive,4.88,475,62.69,44.39,39.51,Mainstream Dem,4.88
+23528,0084101,Ventura,Simi Valley,23,Progressive,92,Highly Competitive,1.68,710,53.76,40.6,38.93,Mainstream Dem,1.68
+23511,0084104,Ventura,Simi Valley,23,Progressive,59,Competitive,8.51,507,60.37,38.72,47.23,Mainstream Dem,-8.51
+20352,0080050A,Los Angeles,Agoura Hills,24,Progressive,39,Competitive,17.24,3482,66.17,49.78,32.54,Mainstream Dem,17.24
+24288,0044010,Ventura,Unincorporated,24,Progressive,14,Not Competitive,25.33,630,63.05,51.64,26.32,Mainstream Dem,25.33
+23864,0084099,Ventura,Simi Valley,24,Progressive,39,Competitive,20.85,690,64.35,32.33,53.17,Mainstream Dem,-20.85
+23984,0092041,Ventura,Thousand Oaks,24,Progressive,50,Competitive,8.17,735,66.03,44.41,36.24,Mainstream Dem,8.17
+24754,0007031,Ventura,Camarillo,24,Progressive,25,Not Competitive,9.73,336,63.92,44.32,34.59,Mainstream Dem,9.73
+23907,0092064,Ventura,Thousand Oaks,25,Progressive,43,Competitive,15.65,461,69.41,47.33,31.68,Mainstream Dem,15.65
+24279,0084002,Ventura,Simi Valley,25,Progressive,92,Highly Competitive,1.03,903,61.18,41.28,42.31,Mainstream Dem,-1.03
+23902,0092061,Ventura,Thousand Oaks,25,Progressive,17,Not Competitive,23.68,951,62.07,52.64,28.96,Mainstream Dem,23.68
+24361,0084013,Ventura,Simi Valley,25,Progressive,41,Competitive,5.05,662,60.35,44.44,39.39,Mainstream Dem,5.05
+19203,1000015A,Los Angeles,Calabasas,25,Progressive,73,Highly Competitive,9.24,1930,64.49,43.72,34.48,Mainstream Dem,9.24
+23764,0092011,Ventura,Thousand Oaks,25,Progressive,56,Competitive,4.6,464,61.71,40.59,45.19,Mainstream Dem,-4.6
+24755,0007034,Ventura,Camarillo,26,Progressive,69,Highly Competitive,5.81,602,60.31,44.48,38.66,Mainstream Dem,5.81
+24030,0092086,Ventura,Thousand Oaks,26,Progressive,62,Competitive,2.29,395,53.23,41.22,43.51,Mainstream Dem,-2.29
+23971,0092046,Ventura,Thousand Oaks,26,Progressive,46,Competitive,9.17,368,61.81,45.41,36.24,Mainstream Dem,9.17
+23629,0092100,Ventura,Thousand Oaks,26,Progressive,23,Not Competitive,15.81,738,63.44,50.93,35.12,Mainstream Dem,15.81
+24348,0084044,Ventura,Simi Valley,26,Progressive,70,Highly Competitive,8.45,528,62.38,36.62,45.07,Mainstream Dem,-8.45
+24362,0084012,Ventura,Simi Valley,27,Progressive,52,Competitive,17.58,643,65.64,32.81,50.39,Mainstream Dem,-17.58
+24347,0084041,Ventura,Simi Valley,27,Progressive,46,Competitive,13.36,615,64.1,34.59,47.95,Mainstream Dem,-13.36
+24272,0084009,Ventura,Simi Valley,27,Progressive,40,Competitive,16.58,869,61.94,35.05,51.63,Mainstream Dem,-16.58
+24760,0007035,Ventura,Camarillo,27,Progressive,85,Highly Competitive,3.57,261,56.35,41.07,37.5,Mainstream Dem,3.57
+24011,0092072,Ventura,Thousand Oaks,27,Progressive,61,Competitive,4.29,702,69.63,44.77,40.48,Mainstream Dem,4.29
+24585,0092127,Ventura,Thousand Oaks,27,Progressive,63,Competitive,3.4,455,62.97,44.68,41.28,Mainstream Dem,3.4
+24151,0044008,Ventura,Unincorporated,28,Progressive,37,Competitive,9.63,726,63.58,44.48,34.84,Mainstream Dem,9.63
+24026,0092082,Ventura,Thousand Oaks,28,Progressive,40,Competitive,12.95,685,67.17,47.0,34.05,Mainstream Dem,12.95
+23676,0006910,Ventura,Camarillo,28,Progressive,21,Not Competitive,16.67,703,65.56,51.05,34.39,Mainstream Dem,16.67
+24352,0084045,Ventura,Simi Valley,28,Progressive,80,Highly Competitive,6.9,636,58.21,42.95,36.05,Mainstream Dem,6.9
+24373,0084026,Ventura,Simi Valley,28,Progressive,80,Highly Competitive,8.41,621,64.54,35.28,43.69,Mainstream Dem,-8.41
+24015,0092076,Ventura,Thousand Oaks,29,Progressive,17,Not Competitive,20.83,588,63.95,51.04,30.21,Moderate Dem-Leaning,20.83
+24296,0044016,Ventura,Unincorporated,29,Progressive,26,Not Competitive,18.39,425,62.94,49.78,31.39,Moderate Dem-Leaning,18.39
+24317,0006908,Ventura,Camarillo,29,Progressive,23,Not Competitive,13.36,696,66.87,48.33,34.97,Moderate Dem-Leaning,13.36
+24013,0092074,Ventura,Thousand Oaks,29,Progressive,19,Not Competitive,18.25,777,63.96,51.59,33.33,Moderate Dem-Leaning,18.25
+24460,0039001,Ventura,Moorpark,29,Progressive,51,Competitive,6.64,599,67.91,45.1,38.46,Moderate Dem-Leaning,6.64
+24169,0044004,Ventura,Unincorporated,29,Progressive,29,Not Competitive,18.97,570,72.28,53.45,34.48,Moderate Dem-Leaning,18.97
+23868,0092055,Ventura,Thousand Oaks,30,Progressive,57,Competitive,2.76,605,67.61,44.17,41.41,Moderate Dem-Leaning,2.76
+23681,0006911,Ventura,Camarillo,30,Progressive,30,Not Competitive,7.96,581,65.63,47.74,39.78,Moderate Dem-Leaning,7.96
+19361,9007693D,Los Angeles,Los Angeles,30,Progressive,22,Not Competitive,31.65,3095,75.5,56.58,24.93,Moderate Dem-Leaning,31.65
+23684,0006913,Ventura,Camarillo,30,Progressive,42,Competitive,2.85,555,63.97,44.73,41.88,Moderate Dem-Leaning,2.85
+23652,0084078,Ventura,Simi Valley,30,Progressive,58,Competitive,6.09,380,62.04,44.67,38.58,Moderate Dem-Leaning,6.09
+23783,0084063,Ventura,Simi Valley,31,Progressive,99,Highly Competitive,1.98,718,59.83,40.23,42.21,Moderate Dem-Leaning,-1.98
+23773,0092010,Ventura,Thousand Oaks,31,Progressive,90,Highly Competitive,0.0,477,63.44,40.08,40.08,Moderate Dem-Leaning,0.0
+20756,4050002A,Los Angeles,Malibu,31,Progressive,45,Competitive,19.31,1786,73.67,49.44,30.13,Moderate Dem-Leaning,19.31
+23473,0007052,Ventura,Camarillo,31,Progressive,73,Highly Competitive,1.4,602,63.86,40.21,38.81,Moderate Dem-Leaning,1.4
+24462,0039003,Ventura,Moorpark,31,Progressive,93,Highly Competitive,1.62,534,61.84,40.89,39.27,Moderate Dem-Leaning,1.62
+23509,0084105,Ventura,Simi Valley,31,Progressive,95,Highly Competitive,1.19,654,62.0,40.6,41.79,Moderate Dem-Leaning,-1.19
+19190,1000016A,Los Angeles,Calabasas,32,Progressive,12,Not Competitive,32.29,4016,73.7,58.11,25.83,Moderate Dem-Leaning,32.29
+23515,0084106,Ventura,Simi Valley,32,Progressive,77,Highly Competitive,4.07,509,62.03,39.84,43.9,Moderate Dem-Leaning,-4.07
+23922,0039021,Ventura,Moorpark,32,Progressive,58,Competitive,5.41,763,60.89,43.0,37.59,Moderate Dem-Leaning,5.41
+23881,0084092,Ventura,Simi Valley,32,Progressive,79,Highly Competitive,9.69,493,58.09,37.44,47.14,Moderate Dem-Leaning,-9.69
+24534,0092111,Ventura,Thousand Oaks,32,Progressive,42,Competitive,4.82,391,68.5,44.58,39.76,Moderate Dem-Leaning,4.82
+23707,0084089,Ventura,Simi Valley,33,Progressive,97,Highly Competitive,2.92,660,60.78,42.4,39.47,Moderate Dem-Leaning,2.92
+23730,0006922,Ventura,Camarillo,33,Progressive,84,Highly Competitive,2.7,531,61.61,39.0,41.7,Moderate Dem-Leaning,-2.7
+23770,0092018,Ventura,Thousand Oaks,33,Progressive,52,Competitive,2.34,740,62.04,44.04,41.7,Moderate Dem-Leaning,2.34
+24381,0084027,Ventura,Simi Valley,33,Progressive,48,Competitive,18.71,691,62.18,32.31,51.02,Moderate Dem-Leaning,-18.71
+23887,0092051,Ventura,Thousand Oaks,33,Progressive,88,Highly Competitive,3.16,901,64.96,39.25,42.41,Moderate Dem-Leaning,-3.16
+23949,0024000,Ventura,Unincorporated,33,Progressive,91,Highly Competitive,6.2,648,66.34,44.19,37.98,Moderate Dem-Leaning,6.2
+20282,0080054A,Los Angeles,Agoura Hills,34,Mainstream,49,Competitive,14.47,1273,67.36,46.7,32.23,Moderate Dem-Leaning,14.47
+19661,1000009A,Los Angeles,Calabasas,34,Mainstream,42,Competitive,16.0,491,71.84,46.0,30.0,Moderate Dem-Leaning,16.0
+24499,0095006,Ventura,Unincorporated,34,Mainstream,53,Competitive,5.54,515,70.69,44.0,38.46,Moderate Dem-Leaning,5.54
+24509,0095009,Ventura,Unincorporated,34,Mainstream,80,Highly Competitive,1.06,695,67.1,41.69,42.74,Moderate Dem-Leaning,-1.06
+23800,0092028,Ventura,Thousand Oaks,34,Mainstream,60,Competitive,7.47,372,61.84,39.08,46.55,Moderate Dem-Leaning,-7.47
+23487,0007049,Ventura,Camarillo,35,Mainstream,66,Competitive,7.1,392,55.53,43.23,36.13,Moderate Dem-Leaning,7.1
+24540,0092113,Ventura,Thousand Oaks,35,Mainstream,71,Highly Competitive,7.67,483,70.91,44.6,36.93,Moderate Dem-Leaning,7.67
+23508,0007054,Ventura,Camarillo,35,Mainstream,46,Competitive,11.68,625,61.41,46.41,34.73,Moderate Dem-Leaning,11.68
+23866,0084098,Ventura,Simi Valley,35,Mainstream,88,Highly Competitive,4.92,475,61.1,38.93,43.85,Moderate Dem-Leaning,-4.92
+23670,0084070,Ventura,Simi Valley,35,Mainstream,49,Competitive,17.45,655,63.21,33.22,50.67,Moderate Dem-Leaning,-17.45
+23798,0092029,Ventura,Thousand Oaks,35,Mainstream,42,Competitive,9.0,498,68.8,47.33,38.33,Moderate Dem-Leaning,9.0
+23666,0084071,Ventura,Simi Valley,36,Mainstream,56,Competitive,1.16,197,59.66,39.15,40.31,Moderate Dem-Leaning,-1.16
+23918,0092034,Ventura,Thousand Oaks,36,Mainstream,81,Highly Competitive,7.26,452,64.58,35.89,43.15,Moderate Dem-Leaning,-7.26
+20685,0080004A,Los Angeles,Agoura Hills,36,Mainstream,22,Not Competitive,23.01,1950,74.32,53.07,30.06,Moderate Dem-Leaning,23.01
+24170,0044003,Ventura,Unincorporated,36,Mainstream,10,Not Competitive,28.74,504,72.09,55.94,27.2,Moderate Dem-Leaning,28.74
+24254,0084004,Ventura,Simi Valley,36,Mainstream,90,Highly Competitive,5.94,650,62.98,38.11,44.06,Moderate Dem-Leaning,-5.94
+24741,0007041,Ventura,Camarillo,37,Mainstream,28,Not Competitive,26.01,338,66.14,28.9,54.91,Moderate Dem-Leaning,-26.01
+23904,0092063,Ventura,Thousand Oaks,37,Mainstream,66,Competitive,3.92,667,71.04,44.65,40.73,Moderate Dem-Leaning,3.92
+24260,0084006,Ventura,Simi Valley,37,Mainstream,100,Highly Competitive,1.09,589,67.08,38.55,37.45,Moderate Dem-Leaning,1.09
+20504,7770001A,Los Angeles,Westlake Village,37,Mainstream,77,Highly Competitive,8.93,632,68.27,45.24,36.31,Moderate Dem-Leaning,8.93
+20765,0070041B,Los Angeles,Unincorporated,37,Mainstream,56,Competitive,15.49,149,72.86,50.7,35.21,Moderate Dem-Leaning,15.49
+23767,0092016,Ventura,Thousand Oaks,37,Mainstream,78,Highly Competitive,1.16,576,68.58,38.84,40.0,Moderate Dem-Leaning,-1.16
+23935,0092030,Ventura,Thousand Oaks,38,Mainstream,81,Highly Competitive,7.55,413,69.31,42.81,35.25,Moderate Dem-Leaning,7.55
+24338,0084032,Ventura,Simi Valley,38,Mainstream,68,Highly Competitive,16.67,354,61.63,30.73,47.4,Moderate Dem-Leaning,-16.67
+24335,0084030,Ventura,Simi Valley,38,Mainstream,84,Highly Competitive,2.71,615,65.87,41.36,44.07,Moderate Dem-Leaning,-2.71
+24014,0092073,Ventura,Thousand Oaks,38,Mainstream,69,Highly Competitive,2.59,805,68.04,39.24,41.83,Moderate Dem-Leaning,-2.59
+24007,0092078,Ventura,Thousand Oaks,38,Mainstream,73,Highly Competitive,3.42,836,63.58,38.63,42.05,Moderate Dem-Leaning,-3.42
+24515,0095000,Ventura,Unincorporated,39,Mainstream,68,Highly Competitive,11.92,702,67.61,44.3,32.38,Moderate Dem-Leaning,11.92
+24491,0039013,Ventura,Moorpark,39,Mainstream,86,Highly Competitive,8.67,625,71.19,36.13,44.8,Moderate Dem-Leaning,-8.67
+24734,0007023,Ventura,Camarillo,39,Mainstream,99,Highly Competitive,5.59,482,73.23,35.66,41.26,Moderate Dem-Leaning,-5.59
+23987,0092042,Ventura,Thousand Oaks,39,Mainstream,72,Highly Competitive,2.81,702,65.52,39.11,41.92,Moderate Dem-Leaning,-2.81
+23768,0092015,Ventura,Thousand Oaks,39,Mainstream,94,Highly Competitive,3.18,589,69.77,38.15,41.33,Moderate Dem-Leaning,-3.18
+23791,0092023,Ventura,Thousand Oaks,39,Mainstream,94,Highly Competitive,0.77,687,67.45,40.51,39.74,Moderate Dem-Leaning,0.77
+24138,0099000,Ventura,Unincorporated,40,Mainstream,45,Competitive,23.02,226,71.36,49.64,26.62,Moderate Dem-Leaning,23.02
+24257,0084003,Ventura,Simi Valley,40,Mainstream,57,Competitive,14.87,530,62.48,34.36,49.23,Moderate Dem-Leaning,-14.87
+24012,0092071,Ventura,Thousand Oaks,40,Mainstream,44,Competitive,3.52,690,67.49,41.46,44.99,Moderate Dem-Leaning,-3.52
+24021,0092081,Ventura,Thousand Oaks,40,Mainstream,48,Competitive,14.91,586,68.37,46.89,31.99,Moderate Dem-Leaning,14.91
+24496,0039014,Ventura,Moorpark,40,Mainstream,55,Competitive,5.96,550,72.28,44.2,38.24,Moderate Dem-Leaning,5.96
+23399,0007002,Ventura,Camarillo,41,Mainstream,70,Highly Competitive,6.51,669,65.52,38.7,45.21,Moderate Dem-Leaning,-6.51
+24054,0014202,Ventura,Unincorporated,41,Mainstream,77,Highly Competitive,3.92,374,69.6,42.16,46.08,Moderate Dem-Leaning,-3.92
+23633,0092104,Ventura,Thousand Oaks,41,Mainstream,82,Highly Competitive,4.83,700,69.98,41.38,36.55,Moderate Dem-Leaning,4.83
+23620,0092107,Ventura,Thousand Oaks,41,Mainstream,74,Highly Competitive,3.78,716,69.44,43.32,39.55,Moderate Dem-Leaning,3.78
+24316,0006909,Ventura,Camarillo,41,Mainstream,36,Competitive,4.69,586,71.32,46.06,41.36,Moderate Dem-Leaning,4.69
+24321,0084037,Ventura,Simi Valley,41,Mainstream,76,Highly Competitive,7.92,803,63.19,36.07,43.99,Moderate Dem-Leaning,-7.92
+24731,0007021,Ventura,Camarillo,42,Mainstream,31,Not Competitive,15.11,531,70.96,50.13,35.01,Moderate Dem-Leaning,15.11
+24171,0044006,Ventura,Unincorporated,42,Mainstream,32,Not Competitive,15.98,347,69.0,50.0,34.02,Moderate Dem-Leaning,15.98
+19353,0080070A,Los Angeles,Agoura Hills,42,Mainstream,33,Not Competitive,22.24,2542,72.37,51.88,29.64,Moderate Dem-Leaning,22.24
+24504,0095008,Ventura,Unincorporated,59,Mainstream,85,Highly Competitive,4.13,502,65.81,38.43,42.56,Competitive/Swing,-4.13
+23700,0084085,Ventura,Simi Valley,59,Mainstream,88,Highly Competitive,6.87,757,61.12,36.72,43.58,Competitive/Swing,-6.87
+23924,0039024,Ventura,Moorpark,59,Mainstream,63,Competitive,5.65,861,70.07,39.57,45.22,Competitive/Swing,-5.65
+23803,0092021,Ventura,Thousand Oaks,59,Mainstream,84,Highly Competitive,2.1,895,68.26,38.81,40.92,Competitive/Swing,-2.1
+24290,0044012,Ventura,Unincorporated,60,Mainstream,24,Not Competitive,14.84,728,72.6,49.73,34.89,Competitive/Swing,14.84
+23869,0092058,Ventura,Thousand Oaks,60,Mainstream,75,Highly Competitive,0.86,755,69.83,41.33,40.47,Competitive/Swing,0.86
+23919,0039022,Ventura,Moorpark,60,Mainstream,98,Highly Competitive,3.04,404,69.39,38.26,41.3,Competitive/Swing,-3.04
+24010,0092070,Ventura,Thousand Oaks,60,Mainstream,98,Highly Competitive,1.38,661,62.29,40.61,41.99,Competitive/Swing,-1.38
+24545,0092115,Ventura,Thousand Oaks,60,Mainstream,90,Highly Competitive,10.31,389,65.59,34.53,44.84,Competitive/Swing,-10.31
+23990,0092091,Ventura,Thousand Oaks,60,Mainstream,87,Highly Competitive,5.25,680,69.09,45.03,39.78,Competitive/Swing,5.25
+24457,0039009,Ventura,Moorpark,61,Mainstream,49,Competitive,2.25,550,64.93,43.41,41.16,Competitive/Swing,2.25
+23680,0006912,Ventura,Camarillo,61,Mainstream,53,Competitive,4.6,654,64.82,41.14,45.73,Competitive/Swing,-4.6
+24551,0092116,Ventura,Thousand Oaks,61,Mainstream,75,Highly Competitive,6.95,673,67.14,37.42,44.37,Competitive/Swing,-6.95
+23993,0092096,Ventura,Thousand Oaks,61,Mainstream,47,Competitive,9.59,533,70.61,45.93,36.34,Competitive/Swing,9.59
+23659,0006916,Ventura,Camarillo,61,Mainstream,35,Competitive,13.27,188,67.05,37.76,51.02,Competitive/Swing,-13.27
+24000,0092090,Ventura,Thousand Oaks,62,Mainstream,59,Competitive,9.0,615,64.3,45.0,36.0,Competitive/Swing,9.0
+23648,0084074,Ventura,Simi Valley,62,Mainstream,63,Competitive,8.81,579,66.85,37.99,46.81,Competitive/Swing,-8.81
+23792,0084067,Ventura,Simi Valley,62,Mainstream,67,Highly Competitive,6.49,697,65.52,37.4,43.9,Competitive/Swing,-6.49
+20658,9001367B,Los Angeles,Los Angeles,62,Mainstream,19,Not Competitive,34.12,3917,83.04,58.33,24.21,Competitive/Swing,34.12
+24543,0092112,Ventura,Thousand Oaks,62,Mainstream,74,Highly Competitive,1.94,441,68.5,43.69,41.75,Competitive/Swing,1.94
+24740,0007026,Ventura,Camarillo,62,Mainstream,71,Highly Competitive,7.64,357,69.79,38.22,45.86,Competitive/Swing,-7.64
+23439,0084113,Ventura,Simi Valley,63,Mainstream,89,Highly Competitive,2.68,478,63.08,43.75,41.07,Moderate Rep-Leaning,2.68
+24474,0039019,Ventura,Moorpark,63,Mainstream,85,Highly Competitive,10.66,616,70.17,36.05,46.71,Moderate Rep-Leaning,-10.66
+20876,9001408A,Los Angeles,Los Angeles,63,Mainstream,52,Competitive,23.84,1944,77.69,51.07,27.23,Moderate Rep-Leaning,23.84
+23905,0092062,Ventura,Thousand Oaks,63,Mainstream,83,Highly Competitive,1.58,840,66.33,39.47,41.05,Moderate Rep-Leaning,-1.58
+23841,0092006,Ventura,Thousand Oaks,63,Mainstream,54,Competitive,2.4,398,67.84,43.27,40.87,Moderate Rep-Leaning,2.4
+20541,0070005A,Los Angeles,Unincorporated,64,Mainstream,91,Highly Competitive,7.26,1111,74.11,44.72,37.46,Moderate Rep-Leaning,7.26
+23921,0092033,Ventura,Thousand Oaks,64,Mainstream,78,Highly Competitive,6.72,487,69.85,37.94,44.66,Moderate Rep-Leaning,-6.72
+23974,0039037,Ventura,Moorpark,64,Mainstream,97,Highly Competitive,2.0,710,69.22,38.29,40.29,Moderate Rep-Leaning,-2.0
+23870,0092057,Ventura,Thousand Oaks,64,Mainstream,70,Highly Competitive,5.82,597,69.01,39.34,45.15,Moderate Rep-Leaning,-5.82
+24018,0092088,Ventura,Thousand Oaks,64,Mainstream,94,Highly Competitive,2.49,935,69.02,42.53,40.04,Moderate Rep-Leaning,2.49
+23964,0092045,Ventura,Thousand Oaks,64,Mainstream,73,Highly Competitive,1.16,576,69.16,41.33,42.49,Moderate Rep-Leaning,-1.16
+23837,0092002,Ventura,Thousand Oaks,65,Mainstream,97,Highly Competitive,1.45,153,69.06,42.03,43.48,Moderate Rep-Leaning,-1.45
+23777,0084062,Ventura,Simi Valley,65,Mainstream,82,Highly Competitive,6.27,674,58.79,44.2,37.93,Moderate Rep-Leaning,6.27
+23906,0092065,Ventura,Thousand Oaks,65,Mainstream,66,Competitive,5.7,523,70.91,44.3,38.59,Moderate Rep-Leaning,5.7
+23932,0092039,Ventura,Thousand Oaks,65,Mainstream,62,Competitive,0.95,748,71.09,40.64,41.59,Moderate Rep-Leaning,-0.95
+20857,9001100A,Los Angeles,Los Angeles,65,Mainstream,48,Competitive,28.28,2692,77.46,54.04,25.76,Moderate Rep-Leaning,28.28
+24360,0084010,Ventura,Simi Valley,66,Mainstream,55,Competitive,12.35,706,66.18,36.11,48.46,Moderate Rep-Leaning,-12.35
+24577,0092123,Ventura,Thousand Oaks,66,Mainstream,74,Highly Competitive,3.23,511,67.36,42.65,39.43,Moderate Rep-Leaning,3.23
+23992,0092093,Ventura,Thousand Oaks,66,Mainstream,83,Highly Competitive,1.02,588,74.68,40.68,41.69,Moderate Rep-Leaning,-1.02
+23903,0092060,Ventura,Thousand Oaks,66,Mainstream,72,Highly Competitive,7.69,356,68.7,43.44,35.75,Moderate Rep-Leaning,7.69
+23832,0092008,Ventura,Thousand Oaks,66,Mainstream,92,Highly Competitive,3.54,784,69.24,38.13,41.67,Moderate Rep-Leaning,-3.54
+23872,0092059,Ventura,Thousand Oaks,66,Mainstream,61,Competitive,1.08,794,66.89,41.9,42.98,Moderate Rep-Leaning,-1.08
+23925,0092035,Ventura,Thousand Oaks,67,Moderate,89,Highly Competitive,1.8,560,68.66,41.14,42.94,Moderate Rep-Leaning,-1.8
+23796,0092027,Ventura,Thousand Oaks,67,Moderate,89,Highly Competitive,6.32,661,68.95,37.0,43.33,Moderate Rep-Leaning,-6.32
+19149,7770030A,Los Angeles,Westlake Village,67,Moderate,68,Highly Competitive,10.24,4588,74.95,45.65,35.41,Moderate Rep-Leaning,10.24
+19199,9001352A,Los Angeles,Los Angeles,67,Moderate,34,Competitive,30.92,1997,78.23,56.18,25.26,Moderate Rep-Leaning,30.92
+23727,0006923,Ventura,Camarillo,67,Moderate,75,Highly Competitive,2.7,138,70.54,43.24,45.95,Moderate Rep-Leaning,-2.7
+24455,0039008,Ventura,Moorpark,68,Moderate,64,Competitive,9.49,485,66.52,37.96,47.45,Moderate Rep-Leaning,-9.49
+24355,0084017,Ventura,Simi Valley,68,Moderate,83,Highly Competitive,4.15,377,66.67,44.04,39.9,Moderate Rep-Leaning,4.15
+23840,0092007,Ventura,Thousand Oaks,68,Moderate,84,Highly Competitive,5.6,717,71.43,38.68,44.27,Moderate Rep-Leaning,-5.6
+23994,0092095,Ventura,Thousand Oaks,68,Moderate,55,Competitive,16.39,657,71.68,32.78,49.17,Moderate Rep-Leaning,-16.39
+23449,0084110,Ventura,Simi Valley,68,Moderate,14,Not Competitive,27.9,669,66.45,26.33,54.23,Moderate Rep-Leaning,-27.9
+24729,0007028,Ventura,Camarillo,68,Moderate,82,Highly Competitive,9.27,363,69.91,44.88,35.61,Moderate Rep-Leaning,9.27
+24156,0044009,Ventura,Unincorporated,69,Moderate,37,Competitive,14.32,756,76.12,49.88,35.56,Moderate Rep-Leaning,14.32
+23801,0084060,Ventura,Simi Valley,69,Moderate,78,Highly Competitive,10.36,562,65.15,36.13,46.5,Moderate Rep-Leaning,-10.36
+24268,0084007,Ventura,Simi Valley,69,Moderate,54,Competitive,15.0,739,68.17,34.21,49.21,Moderate Rep-Leaning,-15.0
+24280,0084001,Ventura,Simi Valley,69,Moderate,91,Highly Competitive,2.38,901,62.87,38.69,41.07,Moderate Rep-Leaning,-2.38
+20393,1000033A,Los Angeles,Calabasas,69,Moderate,59,Competitive,16.2,1854,78.6,48.61,32.4,Moderate Rep-Leaning,16.2
+23728,0084059,Ventura,Simi Valley,70,Moderate,55,Competitive,6.27,745,68.93,38.31,44.58,Moderate Rep-Leaning,-6.27
+23988,0092099,Ventura,Thousand Oaks,70,Moderate,38,Competitive,12.26,545,73.27,45.81,33.55,Moderate Rep-Leaning,12.26
+23715,0084080,Ventura,Simi Valley,70,Moderate,54,Competitive,12.57,798,68.32,34.92,47.49,Moderate Rep-Leaning,-12.57
+24453,0039006,Ventura,Moorpark,70,Moderate,68,Highly Competitive,4.0,643,67.82,42.77,38.77,Moderate Rep-Leaning,4.0
+24502,0095005,Ventura,Unincorporated,70,Moderate,95,Highly Competitive,6.84,398,75.0,37.18,44.02,Moderate Rep-Leaning,-6.84
+24579,0092126,Ventura,Thousand Oaks,70,Moderate,67,Highly Competitive,19.33,259,78.23,31.09,50.42,Moderate Rep-Leaning,-19.33
+23636,0092106,Ventura,Thousand Oaks,71,Moderate,67,Highly Competitive,0.85,626,67.62,39.94,40.79,Moderate Rep-Leaning,-0.85
+24052,0014200,Ventura,Unincorporated,71,Moderate,9,Not Competitive,44.0,137,74.05,20.0,64.0,Moderate Rep-Leaning,-44.0
+23720,0084081,Ventura,Simi Valley,71,Moderate,76,Highly Competitive,11.94,639,68.63,34.33,46.27,Moderate Rep-Leaning,-11.94
+23529,0084100,Ventura,Simi Valley,71,Moderate,16,Not Competitive,23.67,316,63.49,30.77,54.44,Moderate Rep-Leaning,-23.67
+23646,0084075,Ventura,Simi Valley,71,Moderate,29,Not Competitive,17.65,565,71.9,34.41,52.06,Moderate Rep-Leaning,-17.65
+24357,0084019,Ventura,Simi Valley,72,Moderate,45,Competitive,15.48,327,68.49,32.74,48.21,Mainstream Rep,-15.48
+24398,0084021,Ventura,Simi Valley,72,Moderate,48,Competitive,16.72,596,71.15,34.75,51.48,Mainstream Rep,-16.72
+23751,0084053,Ventura,Simi Valley,72,Moderate,62,Competitive,12.94,554,65.09,36.71,49.65,Mainstream Rep,-12.94
+24573,0092122,Ventura,Thousand Oaks,72,Moderate,91,Highly Competitive,8.44,647,71.41,36.68,45.12,Mainstream Rep,-8.44
+23975,0092048,Ventura,Thousand Oaks,72,Moderate,98,Highly Competitive,2.82,904,67.94,38.31,41.13,Mainstream Rep,-2.82
+20892,9005428A,Los Angeles,Los Angeles,72,Moderate,64,Competitive,21.1,2377,78.63,50.29,29.19,Mainstream Rep,21.1
+23831,0092009,Ventura,Thousand Oaks,73,Moderate,94,Highly Competitive,1.69,802,72.25,38.74,40.44,Mainstream Rep,-1.69
+23898,0092069,Ventura,Thousand Oaks,73,Moderate,71,Highly Competitive,7.24,684,71.39,37.15,44.39,Mainstream Rep,-7.24
+23474,0007051,Ventura,Camarillo,73,Moderate,87,Highly Competitive,0.0,599,69.24,42.31,42.31,Mainstream Rep,0.0
+23651,0084079,Ventura,Simi Valley,73,Moderate,64,Competitive,11.05,388,64.31,34.3,45.35,Mainstream Rep,-11.05
+23908,0039028,Ventura,Moorpark,73,Moderate,33,Not Competitive,23.39,250,66.81,33.06,56.45,Mainstream Rep,-23.39
+24266,0084008,Ventura,Simi Valley,74,Moderate,57,Competitive,15.16,583,68.41,32.13,47.29,Mainstream Rep,-15.16
+23965,0039033,Ventura,Moorpark,74,Moderate,65,Competitive,10.66,508,66.87,34.93,45.59,Mainstream Rep,-10.66
+23793,0092022,Ventura,Thousand Oaks,74,Moderate,33,Not Competitive,18.53,708,71.94,33.97,52.49,Mainstream Rep,-18.53
+24356,0084016,Ventura,Simi Valley,74,Moderate,39,Competitive,18.62,626,66.72,32.76,51.38,Mainstream Rep,-18.62
+23749,0084050,Ventura,Simi Valley,74,Moderate,43,Competitive,8.51,613,65.42,37.99,46.5,Mainstream Rep,-8.51
+23781,0084064,Ventura,Simi Valley,74,Moderate,69,Highly Competitive,8.11,785,69.04,37.42,45.53,Mainstream Rep,-8.11
+24472,0039017,Ventura,Moorpark,75,Moderate,88,Highly Competitive,7.83,627,71.26,37.68,45.51,Mainstream Rep,-7.83
+23995,0092098,Ventura,Thousand Oaks,75,Moderate,61,Competitive,3.13,542,72.02,42.95,39.81,Mainstream Rep,3.13
+24313,0006904,Ventura,Camarillo,75,Moderate,87,Highly Competitive,1.33,820,71.58,40.04,41.37,Mainstream Rep,-1.33
+24345,0084040,Ventura,Simi Valley,75,Moderate,30,Not Competitive,17.09,495,62.72,34.62,51.71,Mainstream Rep,-17.09
+24017,0092089,Ventura,Thousand Oaks,75,Moderate,96,Highly Competitive,3.75,838,69.16,38.66,42.41,Mainstream Rep,-3.75
+23423,0007011,Ventura,Camarillo,76,Moderate,54,Competitive,2.04,181,78.7,39.8,41.84,Mainstream Rep,-2.04
+23967,0092044,Ventura,Thousand Oaks,76,Moderate,96,Highly Competitive,0.83,612,73.58,40.06,39.23,Mainstream Rep,0.83
+24341,0084034,Ventura,Simi Valley,76,Moderate,41,Competitive,11.8,541,66.48,37.05,48.85,Mainstream Rep,-11.8
+23794,0092025,Ventura,Thousand Oaks,76,Moderate,100,Highly Competitive,2.39,632,72.53,35.82,38.21,Mainstream Rep,-2.39
+23507,0084102,Ventura,Simi Valley,76,Moderate,46,Competitive,13.89,490,70.37,34.92,48.81,Mainstream Rep,-13.89
+23454,0084111,Ventura,Simi Valley,76,Moderate,40,Competitive,25.0,402,67.81,28.64,53.64,Mainstream Rep,-25.0
+23702,0084088,Ventura,Simi Valley,77,Moderate,34,Competitive,11.39,516,74.75,37.97,49.37,Mainstream Rep,-11.39
+24383,0084029,Ventura,Simi Valley,77,Moderate,37,Competitive,21.67,674,63.73,29.41,51.08,Mainstream Rep,-21.67
+24450,0090004,Ventura,Unincorporated,77,Moderate,49,Competitive,11.01,230,71.56,37.61,48.62,Mainstream Rep,-11.01
+23650,0084076,Ventura,Simi Valley,77,Moderate,81,Highly Competitive,6.62,607,71.94,36.42,43.05,Mainstream Rep,-6.62
+24742,0007040,Ventura,Camarillo,77,Moderate,51,Competitive,14.0,616,70.07,36.57,50.56,Mainstream Rep,-14.0
+24336,0084033,Ventura,Simi Valley,78,Moderate,17,Not Competitive,27.68,630,68.56,29.41,57.09,Mainstream Rep,-27.68
+23889,0092054,Ventura,Thousand Oaks,78,Moderate,93,Highly Competitive,2.92,640,76.29,40.15,43.07,Mainstream Rep,-2.92
+24400,0084024,Ventura,Simi Valley,78,Moderate,14,Not Competitive,23.21,573,70.86,31.4,54.61,Mainstream Rep,-23.21
+24324,0084036,Ventura,Simi Valley,78,Moderate,28,Not Competitive,22.54,498,70.44,28.32,50.87,Mainstream Rep,-22.54
+23755,0084055,Ventura,Simi Valley,78,Moderate,53,Competitive,11.05,646,68.17,37.85,48.9,Mainstream Rep,-11.05
+23860,0084097,Ventura,Simi Valley,78,Moderate,36,Competitive,17.04,729,68.35,31.83,48.87,Mainstream Rep,-17.04
+24343,0084047,Ventura,Simi Valley,79,Moderate,65,Competitive,8.01,615,67.8,39.47,47.48,Mainstream Rep,-8.01
+23946,0039038,Ventura,Moorpark,79,Moderate,96,Highly Competitive,6.16,719,66.96,35.71,41.87,Mainstream Rep,-6.16
+23804,0092020,Ventura,Thousand Oaks,79,Moderate,77,Highly Competitive,12.05,828,69.43,34.67,46.72,Mainstream Rep,-12.05
+24016,0092075,Ventura,Thousand Oaks,79,Moderate,86,Highly Competitive,7.21,607,72.09,37.05,44.26,Mainstream Rep,-7.21
+24312,0006905,Ventura,Camarillo,79,Moderate,44,Competitive,15.7,644,72.82,33.42,49.11,Mainstream Rep,-15.7
+20112,2780002A,Los Angeles,Hidden Hills,79,Moderate,93,Highly Competitive,6.89,1069,81.21,42.4,35.51,Mainstream Rep,6.89
+24506,0095007,Ventura,Unincorporated,80,Moderate,33,Not Competitive,16.18,507,68.66,33.82,50.0,Mainstream Rep,-16.18
+23765,0092014,Ventura,Thousand Oaks,80,Moderate,99,Highly Competitive,7.3,442,78.69,35.77,43.07,Mainstream Rep,-7.3
+23698,0084086,Ventura,Simi Valley,80,Moderate,18,Not Competitive,26.58,597,66.43,28.48,55.06,Mainstream Rep,-26.58
+23520,0084108,Ventura,Simi Valley,80,Moderate,82,Highly Competitive,2.47,488,67.59,39.51,41.98,Mainstream Rep,-2.47
+23775,0084069,Ventura,Simi Valley,80,Moderate,90,Highly Competitive,1.17,690,72.42,40.18,41.35,Mainstream Rep,-1.17
+23747,0084051,Ventura,Simi Valley,81,Moderate,31,Not Competitive,17.23,671,70.24,34.75,51.98,Mainstream Rep,-17.23
+23598,0006930,Ventura,Camarillo,81,Moderate,78,Highly Competitive,12.03,476,73.09,35.44,47.47,Mainstream Rep,-12.03
+24489,0039011,Ventura,Moorpark,81,Moderate,79,Highly Competitive,7.6,1008,73.94,37.85,45.45,Mainstream Rep,-7.6
+24350,0084046,Ventura,Simi Valley,81,Moderate,58,Competitive,17.0,671,70.58,31.28,48.28,Mainstream Rep,-17.0
+24027,0092085,Ventura,Thousand Oaks,81,Moderate,98,Highly Competitive,1.59,736,75.6,40.77,42.37,Mainstream Rep,-1.59
+23916,0039020,Ventura,Moorpark,81,Moderate,74,Highly Competitive,8.09,702,70.51,38.97,47.06,Mainstream Rep,-8.09
+23785,0084066,Ventura,Simi Valley,82,Moderate,59,Competitive,10.71,733,72.09,36.5,47.2,Mainstream Rep,-10.71
+23789,0084068,Ventura,Simi Valley,82,Moderate,72,Highly Competitive,6.47,746,72.07,38.82,45.29,Mainstream Rep,-6.47
+23513,0084107,Ventura,Simi Valley,82,Moderate,34,Competitive,16.1,640,73.14,35.03,51.13,Mainstream Rep,-16.1
+23718,0084082,Ventura,Simi Valley,82,Moderate,31,Not Competitive,17.93,701,73.21,31.31,49.24,Mainstream Rep,-17.93
+23470,0007078,Ventura,Camarillo,82,Moderate,30,Not Competitive,22.3,733,71.1,31.26,53.56,Mainstream Rep,-22.3
+24547,0092114,Ventura,Thousand Oaks,83,Moderate,36,Competitive,13.97,721,71.12,33.52,47.49,Mainstream Rep,-13.97
+23989,0092092,Ventura,Thousand Oaks,83,Moderate,95,Highly Competitive,4.76,630,73.22,37.2,41.96,Mainstream Rep,-4.76
+23766,0092013,Ventura,Thousand Oaks,83,Moderate,70,Highly Competitive,3.36,516,76.91,40.3,43.66,Mainstream Rep,-3.36
+24492,0039012,Ventura,Moorpark,83,Moderate,44,Competitive,19.42,682,69.48,32.04,51.46,Mainstream Rep,-19.42
+23760,0092012,Ventura,Thousand Oaks,83,Moderate,80,Highly Competitive,4.77,680,76.42,39.45,44.22,Mainstream Rep,-4.77
+23882,0092050,Ventura,Thousand Oaks,83,Moderate,87,Highly Competitive,8.25,766,76.92,36.35,44.6,Mainstream Rep,-8.25
+23838,0092005,Ventura,Thousand Oaks,84,Moderate,64,Competitive,18.6,488,73.28,29.24,47.84,Mainstream Rep,-18.6
+23484,0007046,Ventura,Camarillo,84,Moderate,97,Highly Competitive,3.27,445,71.36,37.14,40.41,Mainstream Rep,-3.27
+23762,0084056,Ventura,Simi Valley,84,Moderate,35,Competitive,18.47,659,71.23,32.98,51.45,Mainstream Rep,-18.47
+23857,0084094,Ventura,Simi Valley,84,Moderate,75,Highly Competitive,14.98,540,73.36,31.8,46.79,Mainstream Rep,-14.98
+24721,0007030,Ventura,Camarillo,84,Moderate,96,Highly Competitive,7.14,583,73.87,35.12,42.26,Mainstream Rep,-7.14
+23779,0084061,Ventura,Simi Valley,85,Moderate,53,Competitive,15.38,401,66.93,31.73,47.12,Mainstream Rep,-15.38
+24738,0007024,Ventura,Camarillo,85,Moderate,99,Highly Competitive,0.0,438,69.29,38.98,38.98,Mainstream Rep,0.0
+23970,0039035,Ventura,Moorpark,85,Moderate,50,Competitive,15.69,609,75.97,32.92,48.62,Mainstream Rep,-15.69
+24330,0084038,Ventura,Simi Valley,85,Moderate,24,Not Competitive,27.43,525,71.75,27.78,55.21,Mainstream Rep,-27.43
+24493,0039015,Ventura,Moorpark,85,Moderate,60,Competitive,13.7,517,70.14,35.56,49.26,Mainstream Rep,-13.7
+23644,0084072,Ventura,Simi Valley,85,Moderate,20,Not Competitive,18.84,604,74.91,32.25,51.09,Mainstream Rep,-18.84
+24349,0084043,Ventura,Simi Valley,86,Moderate,27,Not Competitive,17.23,570,71.27,34.12,51.35,MAGA Rep,-17.23
+23757,0084054,Ventura,Simi Valley,86,Moderate,18,Not Competitive,25.52,748,74.65,29.64,55.15,MAGA Rep,-25.52
+23795,0092024,Ventura,Thousand Oaks,86,Moderate,81,Highly Competitive,2.22,546,74.42,39.24,41.46,MAGA Rep,-2.22
+23854,0084095,Ventura,Simi Valley,86,Moderate,47,Competitive,16.35,445,71.19,31.94,48.29,MAGA Rep,-16.35
+23696,0084083,Ventura,Simi Valley,86,Moderate,31,Not Competitive,25.53,628,71.52,27.66,53.19,MAGA Rep,-25.53
+23722,0006921,Ventura,Camarillo,87,Moderate,30,Not Competitive,22.46,731,78.87,30.45,52.92,MAGA Rep,-22.46
+23731,0084058,Ventura,Simi Valley,87,Moderate,24,Not Competitive,21.74,753,73.4,30.18,51.92,MAGA Rep,-21.74
+24531,0092118,Ventura,Thousand Oaks,87,Moderate,45,Competitive,12.55,447,79.14,36.36,48.92,MAGA Rep,-12.55
+23863,0084096,Ventura,Simi Valley,87,Moderate,26,Not Competitive,20.29,728,72.77,31.64,51.93,MAGA Rep,-20.29
+24476,0039018,Ventura,Moorpark,87,Moderate,83,Highly Competitive,9.8,733,70.81,34.87,44.67,MAGA Rep,-9.8
+23753,0084052,Ventura,Simi Valley,87,Moderate,21,Not Competitive,19.77,518,70.46,32.7,52.47,MAGA Rep,-19.77
+23631,0092101,Ventura,Thousand Oaks,88,Moderate,95,Highly Competitive,3.96,554,81.84,37.95,41.91,MAGA Rep,-3.96
+24458,0039000,Ventura,Moorpark,88,Moderate,10,Not Competitive,35.84,569,75.05,23.55,59.39,MAGA Rep,-35.84
+24340,0084035,Ventura,Simi Valley,88,Moderate,19,Not Competitive,27.12,408,69.79,27.97,55.08,MAGA Rep,-27.12
+23899,0092068,Ventura,Thousand Oaks,88,Moderate,76,Highly Competitive,12.97,699,74.06,35.38,48.35,MAGA Rep,-12.97
+24358,0084018,Ventura,Simi Valley,88,Moderate,11,Not Competitive,24.17,621,71.96,31.13,55.3,MAGA Rep,-24.17
+23926,0039023,Ventura,Moorpark,89,Moderate,37,Competitive,21.45,554,71.48,30.91,52.36,MAGA Rep,-21.45
+24521,0095001,Ventura,Unincorporated,89,Moderate,66,Competitive,9.13,439,77.29,37.3,46.43,MAGA Rep,-9.13
+24029,0092087,Ventura,Thousand Oaks,89,Moderate,71,Highly Competitive,16.41,454,74.88,30.92,47.33,MAGA Rep,-16.41
+24028,0092084,Ventura,Thousand Oaks,89,Moderate,41,Competitive,18.23,346,82.92,29.69,47.92,MAGA Rep,-18.23
+23649,0084077,Ventura,Simi Valley,89,Moderate,17,Not Competitive,21.91,435,69.71,32.67,54.58,MAGA Rep,-21.91
+23452,0084112,Ventura,Simi Valley,89,Moderate,26,Not Competitive,16.79,402,82.89,32.44,49.24,MAGA Rep,-16.79
+24390,0084020,Ventura,Simi Valley,90,Moderate,38,Competitive,16.41,477,75.7,33.2,49.61,MAGA Rep,-16.41
+24025,0092083,Ventura,Thousand Oaks,90,Moderate,38,Competitive,13.78,414,83.17,33.33,47.11,MAGA Rep,-13.78
+23642,0084073,Ventura,Simi Valley,90,Moderate,19,Not Competitive,21.21,640,74.1,28.93,50.14,MAGA Rep,-21.21
+24523,0074002,Ventura,Unincorporated,90,Moderate,23,Not Competitive,16.44,601,80.34,36.93,53.37,MAGA Rep,-16.44
+23518,0084109,Ventura,Simi Valley,90,Moderate,18,Not Competitive,21.38,548,76.25,30.59,51.97,MAGA Rep,-21.38
+24498,0074005,Ventura,Unincorporated,91,Moderate,24,Not Competitive,25.72,549,77.82,28.94,54.66,MAGA Rep,-25.72
+24359,0084011,Ventura,Simi Valley,91,Moderate,32,Not Competitive,30.17,793,74.84,24.94,55.11,MAGA Rep,-30.17
+24327,0084039,Ventura,Simi Valley,91,Moderate,14,Not Competitive,19.46,443,70.81,32.13,51.58,MAGA Rep,-19.46
+23485,0085000,Ventura,Unincorporated,91,Moderate,7,Not Competitive,29.41,349,78.53,26.96,56.37,MAGA Rep,-29.41
+24517,0074001,Ventura,Unincorporated,91,Moderate,27,Not Competitive,25.64,630,79.97,28.72,54.36,MAGA Rep,-25.64
+23604,0006934,Ventura,Camarillo,91,Moderate,27,Not Competitive,18.07,272,84.74,32.53,50.6,MAGA Rep,-18.07
+24631,0081001,Ventura,Unincorporated,92,Moderate,16,Not Competitive,20.97,440,82.28,31.05,52.02,MAGA Rep,-20.97
+23878,0084093,Ventura,Simi Valley,92,Moderate,9,Not Competitive,28.87,721,79.25,29.29,58.16,MAGA Rep,-28.87
+23630,0092102,Ventura,Thousand Oaks,92,Moderate,11,Not Competitive,31.23,639,82.19,24.91,56.14,MAGA Rep,-31.23
+23694,0084084,Ventura,Simi Valley,92,Moderate,5,Not Competitive,36.47,578,78.83,24.22,60.68,MAGA Rep,-36.47
+24344,0084049,Ventura,Simi Valley,92,Moderate,6,Not Competitive,32.68,588,81.56,24.88,57.56,MAGA Rep,-32.68
+24417,0090007,Ventura,Unincorporated,93,Moderate,2,Not Competitive,46.81,111,83.96,19.15,65.96,MAGA Rep,-46.81
+24632,0081000,Ventura,Unincorporated,93,Moderate,9,Not Competitive,22.59,720,83.7,31.13,53.72,MAGA Rep,-22.59
+24401,0084023,Ventura,Simi Valley,93,Moderate,4,Not Competitive,42.21,380,77.32,22.54,64.75,MAGA Rep,-42.21
+24342,0084048,Ventura,Simi Valley,93,Moderate,6,Not Competitive,32.7,542,80.66,26.76,59.46,MAGA Rep,-32.7
+23705,0084087,Ventura,Simi Valley,93,Moderate,8,Not Competitive,28.81,195,81.62,28.81,57.63,MAGA Rep,-28.81
+24520,0074000,Ventura,Unincorporated,93,Moderate,4,Not Competitive,44.79,365,87.11,19.27,64.06,MAGA Rep,-44.79
